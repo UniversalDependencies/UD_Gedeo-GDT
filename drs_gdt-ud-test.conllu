@@ -1,0 +1,455 @@
+# sent_id = 1
+# text = t'ingo t'ingo
+# text_en = ‘story, story’
+1	t'ingo	t'ingo	NOUN	_	_	0	root	_	Gloss=story|Translit=t'ingo
+2	t'ingo	t'ingo	NOUN	_	_	1	compound	_	Gloss=story|Translit=t'ingo
+
+# sent_id = 2
+# text = seerik t'ingi
+# text_en = Story with tradition
+1	seerik	seerik	NOUN	_	_	2	amod	_	Gloss=tradition|Translit=seerik
+2	t'ingi	t'ingi	NOUN	_	_	0	root	_	Gloss=story|Translit=t'ingi
+
+# sent_id = 3
+# text = bire wodda lukkichchi mitti hedhemma summi isikinna agabaasitemman
+# text_en = In the ancient time, there lived a cock whose name was Agabaas.
+1	bire	bire	NOUN	_	_	2	amod	_	Gloss=ancient|Translit=bire
+2	wodda	wodda	NOUN	_	_	5	obl	_	Gloss=time|Translit=wodda
+3	lukkichchi	lukkichchi	NOUN	_	_	5	nsubj	_	Gloss=cock|Translit=lukkichchi
+4	mitti	mitti	AUX	_	_	3	nummod	_	Gloss=was|Translit=mitti
+5	hedhemma	hedhemma	VERB	_	_	0	root	_	Gloss=one|Translit=hedhemma
+6	summi	summi	NOUN	_	_	8	nmod	_	Gloss=name|Translit=summi
+7	isikinna	isikinna	PRON	_	_	8	amod	_	Gloss=his|Translit=isikinna
+8	agabaasitemman	agabaas-EP-COP-PST-DCL	VERB	_	_	5	ccomp	_	Gloss=was named Agabaas|Translit=agabaasitemman
+
+# sent_id = 4
+# text = mitte barra duulo fule me?a-te?n hedhe lamaalchik futtiyya wodda
+# text_en = One day while he was going for a military expedition, there came a rat suddenly.
+1	mitte	mitte	NUM	_	NumType=Card	2	nummod	_	Gloss=one|Translit=mitte
+2	barra	barra	ADJ	_	_	3	nmod	_	Gloss=day|Translit=barra
+3	duulo	duulo	NOUN	_	_	4	nsubj	_	Gloss=expedition|Translit=duulo
+4	fule	fule	VERB	_	_	5	advcl	_	Gloss=go-out|Translit=fule
+5	me?a	me?a	VERB	_	_	0	root	_	Gloss=go|Translit=me?a
+6	te?n	te?n	PART	_	_	5	advmod	_	Gloss=on|Translit=te?n
+7	hedhe	hedhe	VERB	_	_	5	advcl	_	Gloss=exist|Translit=hedhe
+8	lamaalchik	lamaalchik	NOUN	_	_	7	nsubj	_	Gloss=rat|Translit=lamaalchik
+9	futtiyya	futtiyya	ADV	_	_	7	advmod	_	Gloss=arrive-suddenly|Translit=futtiyya
+10	wodda	wodda	ADV	_	_	9	advmod	_	Gloss=moment|Translit=wodda
+
+# sent_id = 5
+# text = lamaalchi isoo “haba martaatte” hiyye qoraammale “duwo marannen” hiyya wodda
+# text_en = The rat asked him, “where they are going? I am going for a military expedition, he replied.
+1	lamaalchi	lamaalchi	NOUN	_	Case=Nom	5	nsubj	_	Gloss=rat|Translit=lamaalchi
+2	isoo	isoo	PRON	_	Case=Abs	5	obj	_	Gloss=3SG.ABS|Translit=isoo
+3	haba	haba	ADV	_	_	4	advmod	_	Gloss=where|Translit=haba
+4	martaatte	martaatte	VERB	_	Tense=IPFV	5	ccomp	_	Gloss=go-2SG.IPFV-INT|Translit=martaatte
+5	qoraammale	qoraammale	VERB	_	Tense=IPFV	8	parataxis	_	Gloss=ask-IPFV-PST|Translit=qoraammale
+6	duwo	duwo	NOUN	_	_	7	obj	_	Gloss=expedition|Translit=duwo
+7	marannen	marannen	VERB	_	Tense=IPFV	8	ccomp	_	Gloss=go-1SG.IPFV-DCL|Translit=marannen
+8	hiyya	hiyya	VERB	_	Tense=IPFV	0	root	_	Gloss=say-IPFV|Translit=hiyya
+9	wodda	wodda	ADV	_	_	8	advmod	_	Gloss=moment|Translit=wodda
+
+# sent_id = 6
+# text = ille atitt'i mitteten lekka atitt'i mitteten mayik duuldatto
+# text_en = Your eye is one, your leg is one with what will you fight?
+1	ille	ille	NOUN	_	_	3	nsubj	_	Gloss=eye|Translit=ille
+2	atitt'i	atitt'i	PRON	_	_	1	nmod	_	Gloss=2SG-GEN|Translit=atitt'i
+3	mitteten	mitteten	NUM	_	NumType=Card	8	ccomp	_	Gloss=one|Translit=mitteten
+4	lekka	lekka	NOUN	_	_	6	nsubj	_	Gloss=leg|Translit=lekka
+5	atitt'i	atitt'i	PRON	_	_	4	nmod	_	Gloss=2SG-GEN|Translit=atitt'i
+6	mitteten	mitteten	NUM	_	NumType=Card	8	ccomp	_	Gloss=one|Translit=mitteten
+7	mayik	mayik	PRON	_	_	8	obl	_	Gloss=what|Translit=mayik
+8	duuldatto	duuldatto	VERB	_	_	0	root	_	Gloss=fight-2SG.IPFV-INT|Translit=duuldatto
+
+# sent_id = 7
+# text = hiyye?e lamaalchi k'orammale malik duulanno-n hiyye?e hiissa woddi
+# text_en = Asked the rat saying, he replied saying ‘I will fight wit-fully’.
+1	hiyye?e	hiyye?e	VERB	_	Tense=PFV	3	ccomp	_	Gloss=say-PFV.CV|Translit=hiyye?e
+2	lamaalchi	lamaalchi	NOUN	_	Case=Nom	3	nsubj	_	Gloss=rat|Translit=lamaalchi
+3	k'orammale	k'orammale	VERB	_	Tense=IPFV	0	root	_	Gloss=ask-IPFV-PST|Translit=k'orammale
+4	malik	malik	ADV	_	_	5	advmod	_	Gloss=clever|Translit=malik
+5	duulanno-n	duulanno-n	NOUN	_	Case=Gen	6	ccomp	_	Gloss=ingenuity-EP-with|Translit=duulanno-n
+6	hiyye?e	hiyye?e	VERB	_	Tense=PFV	7	advcl	_	Gloss=say-PFV.CV|Translit=hiyye?e
+7	hiissa	hiissa	VERB	_	Tense=PFV	3	advcl	_	Gloss=reply-PFV|Translit=hiissa
+8	woddi	woddi	SCONJ	_	_	7	advmod	_	Gloss=moment|Translit=woddi
+
+# sent_id = 8
+# text = ati kuni heenochchi malik duulideteka ani fa?i waalabe?no?n hiyye
+# text_en = ‘You who is disable go out for military expedition, I would not abandon,’ said
+1	ati	ati	PRON	_	_	5	nsubj	_	Gloss=2SG|Translit=ati
+2	kuni	kuni	PRON	_	_	3	nmod	_	Gloss=this|Translit=kuni
+3	heenochchi	heenochchi	ADJ	_	_	1	amod	_	Gloss=disabled|Translit=heenochchi
+4	malik	malik	NOUN	_	_	5	obl	_	Gloss=ingenuity|Translit=malik
+5	duulideteka	duulideteka	VERB	_	_	9	advcl	_	Gloss=expedite-EP-2SG|Translit=duulideteka
+6	ani	ani	PRON	_	_	8	nsubj	_	Gloss=1SG|Translit=ani
+7	fa?i	fa?i	NOUN	_	_	6	nmod	_	Gloss=self|Translit=fa?i
+8	waalabe?no?n	waalabe?no?n	VERB	_	_	9	ccomp	_	Gloss=abandon-1SG.IPFV.NEG-DCL|Translit=waalabe?no?n
+9	hiyye	hiyye	VERB	_	_	0	root	_	Gloss=say-PFV|Translit=hiyye
+
+# sent_id = 9
+# text_ged = agabaasinni lamaalchi duulo bobbaaneen
+# text_en = The rat mobilized with Agabaas to the military expedition.
+1	agabaasinni	agabaasinni	NOUN	_	Case=Com	2	nmod	_	Gloss=agabaas-EP-with|Translit=agabaasinni
+2	lamaalchi	lamaalchi	NOUN	_	Case=Nom	4	nsubj	_	Gloss=rat-NOM|Translit=lamaalchi
+3	duulo	duulo	NOUN	_	_	4	obl	_	Gloss=expedition|Translit=duulo
+4	bobbaaneen	bobbaaneen	VERB	_	Tense=IPFV	0	root	_	Gloss=mobilize-1SG.IPFV-DCL|Translit=bobbaaneen
+
+# sent_id = 10
+# text_ged = lamik mena?ni sinibirik futtine
+# text_en = While the two were going,they met an eagle.
+1	lamik	lamik	NUM	_	NumType=Card	2	nsubj	_	Gloss=two-EP-with|Translit=lamik
+2	mena?ni	mena?ni	VERB	_	Tense=IPFV	4	advcl	_	Gloss=go-2PL.IPV|Translit=mena?ni
+3	sinibirik	sinibirik	NOUN	_	_	4	obl	_	Gloss=eagle-EP-with|Translit=sinibirik
+4	futtine	futtine	VERB	_	Tense=PFV	0	root	_	Gloss=meet-2PL-PFV|Translit=futtine
+
+# sent_id = 11
+# text_ged = sinibir agabaasi hee haba martaatte?
+# text_en = The eagle asked Dear Agabaass where are you going?
+1	sinibir	sinibir	NOUN	_	_	5	nsubj	_	Gloss=eagle|Translit=sinibir
+2	agabaasi	agabaasi	PROPN	_	_	5	obl	_	Gloss=Agabaas|Translit=agabaasi
+3	hee	hee	PART	_	_	2	nmod	_	Gloss=dear|Translit=hee
+4	haba	haba	ADV	_	_	5	advmod	_	Gloss=where|Translit=haba
+5	martaatte	martaatte	VERB	_	Tense=IPFV	0	root	_	Gloss=go-2SG.IPFV-INT|Translit=martaatte
+
+# sent_id = 12
+# text_ged = duuloke maraannen isi edii?n me?a?neen
+# text_en = I am going to military expedition, he replied going on the front.
+1	duuloke	duuloke	NOUN	_	Case=LOC	2	obj	_	Gloss=expedition-COP.F|Translit=duuloke
+2	maraannen	maraannen	VERB	_	Tense=IPFV	5	ccomp	_	Gloss=go-1SG.IPFV-DCL|Translit=maraannen
+3	isi	isi	PRON	_	_	5	nsubj	_	Gloss=he|Translit=isi
+4	edii?n	edii?n	ADJ	_	_	5	ccomp	_	Gloss=front|Translit=edii?n
+5	me?a?neen	me?a?neen	VERB	_	_	0	root	_	Gloss=go-1SG.IPFV-DCL|Translit=me?a?neen
+
+# sent_id = 13
+# text_ged = ille atitt'i mitteten
+# text_en = Your eye is one.
+1	ille	ille	NOUN	_	Case=Nom	3	nsubj	_	Gloss=eye|Translit=ille
+2	atitt'i	atitt'i	PRON	_	Case=Gen	1	nmod	_	Gloss=2SG-GEN|Translit=atitt'i
+3	mitteten	mitteten	VERB	_	_	0	root	_	Gloss=one-COP.F|Translit=mitteten
+
+# sent_id = 14
+# text_ged = lekka atitt'i mitteten
+# text_en = Your leg is one.
+1	lekka	lekka	NOUN	_	Case=Nom	3	nsubj	_	Gloss=leg|Translit=lekka
+2	atitt'i	atitt'i	PRON	_	Case=Gen	1	nmod	_	Gloss=2SG-GEN|Translit=atitt'i
+3	mitteten	mitteten	VERB	_	_	0	root	_	Gloss=one-COP.F|Translit=mitteten
+
+# sent_id = 15
+# text_ged = hitta duuldatto
+# text_en = How do you fight? asked the eagle.
+1	hitta	hitta	ADV	_	_	2	advmod	_	Gloss=how|Translit=hitta
+2	duuldatto	duuldatto	VERB	_	Mood=Int|Number=Sing|Person=2|Tense=IPFV	0	root	_	Gloss=fight-2SG.IPFV-INT|Translit=duuldatto
+
+# sent_id = 16
+# text_ged = malik duulannon
+# text_en = He replied I will fight cleverly.
+1	malik	malik	ADV	_	_	2	advmod	_	Gloss=clever-EP-with|Translit=malik
+2	duulannon	duulannon	VERB	_	Aspect=IPFV|Mood=Ind|Number=Sing|Person=1	0	root	_	Gloss=fight-1SG.IPFV-DCL|Translit=duulannon
+
+# sent_id = 17
+# text_ged = isinna ha?noo duuldineeka
+# text_en = He said if you go for expedition, why not me.
+1	isinna	isinna	PRON	_	PronType=Prs	3	nsubj	_	Gloss=3SG-FOC|Translit=isinna
+2	ha?noo	ha?noo	PRON	_	PronType=Prs	3	obl	_	Gloss=2PL.ABS|Translit=ha?noo
+3	duuldineeka	duuldineeka	VERB	_	Aspect=PFV|Mood=Ind|Number=Plur|Person=2|Tense=PFV	0	root	_	Gloss=expedite-2PL.PFV-for|Translit=duuldineeka
+
+# sent_id = 18
+# text_ged =  mena?ni dudhdhufik futtineett'i
+# text_en = While going, they met with a python.
+1	mena?ni	mena?ni	VERB	_	Aspect=CV|Tense=IPFV|VerbForm=Conv	3	advcl	_	Gloss=go-2PL.CV.while|Translit=mena?ni
+2	dudhdhufik	dudhdhufik	NOUN	_	_	3	obl	_	Gloss=python-EP-with|Translit=dudhdhufik
+3	futtineett'i	futtineett'i	VERB	_	Aspect=CV|Number=Plur|Tense=PFV|VerbForm=Conv	0	root	_	Gloss=meet-3PL.PFV/CV|Translit=futtineett'i
+
+# sent_id = 19
+# text_ged = isoonna lepp'ati shoolik duulokee ke?ne?e
+# text_en = He also became a member of the expedition and four of them rose up for the expedition.
+# text = isoonna lepp'ati shoolik duulokee ke?ne?e
+1	isoonna	isoonna	PRON	_	_	2	nsubj	_	Gloss=3SG.M-also|Translit=isoonna
+2	lepp'ati	lepp'ati	NOUN	_	_	5	parataxis	_	Gloss=expedition-member-GEN.F|Translit=lepp'ati
+3	shoolik	shoolik	NOUN	_	_	5	nsubj	_	Gloss=member|Translit=shoolik
+4	duulokee	duulokee	NOUN	_	_	5	ccomp	_	Gloss=expedition|Translit=duulokee
+5	ke?ne?e	ke?ne?e	VERB	_	Number=Plur|Tense=PFV	0	root	_	Gloss=rise-3PL.PFV|Translit=ke?ne?e
+
+# sent_id = 20
+# text_ged = mene meneett'i gennee duuliinba
+# text_en = After they traveled long a journey, they arrived at the battlefield.
+1	mene	mene	VERB	_	Tense=PFT	3	parataxis	_	Gloss=go-3PL-PFT|Translit=mene
+2	meneett'i	meneett'i	VERB	_	Tense=PFT	1	advmod	_	Gloss=go-3PL-PFT-?|Translit=meneett'i
+3	gennee	gennee	VERB	_	Tense=PFT	0	root	_	Gloss=arrive-3PL-PFT|Translit=gennee
+4	duuliinba	duuliinba	NOUN	_	_	3	obj	_	Gloss=expedition-at|Translit=duuliinba
+
+# sent_id = 21
+# text_ged = enk'inee e?yineett'i hore olfine?e fulchine ke?nee
+# text_en = Having penetrated through, they took away a herd of cattle.
+1	enk'inee	enk'inee	VERB	_	Tense=PFT	2	acl	_	Gloss=break-EP-2PL.PFV|Translit=enk'inee
+2	e?yineett'i	e?yineett'i	VERB	_	Tense=PFT	4	acl	_	Gloss=enter-EP-3PL-?|Translit=e?yineett'i
+3	hore	hore	NOUN	_	_	4	obl	_	Gloss=herd|Translit=hore
+4	olfine?e	olfine?e	VERB	_	Tense=PFT	0	root	_	Gloss=take-away-3PL-PFV|Translit=olfine?e
+5	fulchine	fulchine	VERB	_	Tense=PFT	4	advmod	_	Gloss=they-take-away|Translit=fulchine
+6	ke?nee	ke?nee	VERB	_	Tense=PFT	4	advmod	_	Gloss=they-take-away|Translit=ke?nee
+
+# sent_id = 22
+# text_ged = ati woldonni jabaken dalla?ake?n uurrite iddi ati konne?e manna dagammaka
+# text_en = You evident you are stronger, you sting those people who come to us standing at the door.
+1	ati	ati	PRON	_	_	3	nsubj	_	Gloss=2SG.M|Translit=ati
+2	woldonni	woldonni	NOUN	_	_	3	obj	_	Gloss=past-FOC|Translit=woldonni
+3	jabaken	jabaken	ADJ	_	_	6	acl	_	Gloss=strong-COP.M|Translit=jabaken
+4	dalla?ake?n	dalla?ake?n	ADJ	_	_	5	obl	_	Gloss=door-at|Translit=dalla?ake?n
+5	uurrite	uurrite	VERB	_	Tense=PFV	6	ccomp	_	Gloss=stand-EP-3SG-PFV|Translit=uurrite
+6	iddi	iddi	PRON	_	_	0	root	_	Gloss=sting-2SG.IPV|Translit=iddi
+7	ati	ati	PRON	_	_	6	nsubj	_	Gloss=2SG|Translit=ati
+8	konne?e	konne?e	PRON	_	_	9	det	_	Gloss=those|Translit=konne?e
+9	manna	manna	NOUN	_	_	10	nsubj	_	Gloss=people|Translit=manna
+10	dagammaka	dagammaka	VERB	_	Tense=IPFV	6	acl	_	Gloss=come|Translit=dagammaka
+
+# sent_id = 23
+# text_ged = lamaalokanna ati fadhadik no?o ʃorrine dhakk'anbaaʃʃa reruwwattanna
+# text_en = Also to the rate, you, that they may not be able to chase and catch-up with us saddles and
+1	lamaalokanna	lamaalokanna	NOUN	_	_	5	obl	_	Gloss=rat-also|Translit=lamaalokanna
+2	ati	ati	PRON	_	_	5	nsubj	_	Gloss=2SG|Translit=ati
+3	fadhadik	fadhadik	ADJ	_	_	4	nmod	_	Gloss=horse-EP-with|Translit=fadhadik
+4	no?o	no?o	PRON	_	_	5	obj	_	Gloss=with|Translit=no?o
+5	ʃorrine	ʃorrine	VERB	_	Tense=IPFV	0	root	_	Gloss=chase-EP-3PL-PFV|Translit=ʃorrine
+6	dhakk'anbaaʃʃa	dhakk'anbaaʃʃa	VERB	_	Tense=IPFV	5	ccomp	_	Gloss=catch-up-IPFV.3PL-NEG-that|Translit=dhakk'anbaaʃʃa
+7	reruwwattanna	reruwwattanna	NOUN	_	_	5	ccomp	_	Gloss=saddle-PL-and|Translit=reruwwattanna
+
+# sent_id = 24
+# text_ged = bit'aaluwwa insa?neka kukkutte birri ajajememmanʃanni lamalchikinna
+# text_en = You cut their bridles into pieces completely!
+1	bit'aaluwwa	bit'aaluwwa	NOUN	_	_	3	root	_	Gloss=bridle-PL|Translit=bit'aaluwwa
+2	insa?neka	insa?neka	PRON	_	_	1	amod	_	Gloss=3PL-GEN.ABS|Translit=insa?neka
+3	kukkutte	kukkutte	VERB	_	Tense=PFV	0	root	_	Gloss=cut into piece-PFV|Translit=kukkutte
+4	birri	birri	ADJ	_	_	3	advmod	_	Gloss=finish-2SG.IPV|Translit=birri
+5	ajajememmanʃanni	ajajememmanʃanni	VERB	_	Tense=IPFV	3	advcl	_	Gloss=order-PAS-PFV-PST-?-that|Translit=ajajememmanʃanni
+6	lamalchikinna	lamalchikinna	NOUN	_	_	5	ccomp	_	Gloss=rat|Translit=lamalchikinna
+
+# sent_id = 25
+# text_ged = k'urubbi k'urubbi asse?e bireen
+# text_en = Detach! Detach! He has done and completed the job.
+1	k'urubbi	k'urubbi	VERB	_	Tense=IPFV	4	parataxis	_	Gloss=detach-2SG.IPFV|Translit=k'urubbi
+2	k'urubbi	k'urubbi	VERB	_	Tense=IPFV	4	parataxis	_	Gloss=detach-2SG.IPFV|Translit=k'urubbi
+3	asse?e	asse?e	VERB	_	Tense=PFV	4	acl	_	Gloss=do-CV|Translit=asse?e
+4	bireen	bireen	VERB	_	Tense=PFV	0	root	_	Gloss=finish-2SG-PFV-DCL|Translit=bireen
+
+# sent_id = 26
+# text_ged = huje insa?ne?aa uwwendeett'a birree dan(g)e?e e?yinaa wodda
+# text_en = ‘Having finished their mission, upon their return….’
+1	huje	huje	VERB	_	Tense=PFV	4	obl	_	Gloss=work-PFV|Translit=huje
+2	insa?ne?aa	insa?ne?aa	PRON	_	_	1	amod	_	Gloss=3PL-DAT|Translit=insa?ne?aa
+3	uwwendeett'a	uwwendeett'a	VERB	_	Tense=PFV	4	acl	_	Gloss=give-PFV-FOC.F|Translit=uwwendeett'a
+4	birree	birree	VERB	_	Tense=PFV	0	root	_	Gloss=finish-PFV|Translit=birree
+5	dan(g)e?e	dan(g)e?e	ADV	_	_	4	acl	_	Gloss=come-CV|Translit=dan(g)e?e
+6	e?yinaa	e?yinaa	VERB	_	Tense=IPFV	5	advmod	_	Gloss=enter-EP-2PL-IPFV|Translit=e?yinaa
+7	wodda	wodda	ADV	_	_	5	advmod	_	Gloss=moment|Translit=wodda
+
+# sent_id = 27
+# text_ged = lukki??i sinbirrake?n
+# text_en = The roaster whispered to the eagle.
+1	lukkichchi	lukkichchi	NOUN	_	_	2	nsubj	_	Gloss=cock|Translit=lukki??i
+2	sinbirrake?n	sinbirrake?n	NOUN	_	_	0	root	_	Gloss=eagle-to|Translit=sinbirrake?n
+
+# sent_id = 28
+# text_ged = abboo kuni manni eeganni iitta hujeeki dhudhdhuufi
+# text_en = Oh, the snake which killed those people like that…
+1	abboo	abboo	NOUN	_	_	6	mark	_	Gloss=oh|Translit=abboo
+2	kuni	kuni	PRON	_	_	3	det	_	Gloss=those|Translit=kuni
+3	manni	manni	NOUN	_	_	6	nsubj	_	Gloss=people|Translit=manni
+4	eeganni	eeganni	NOUN	_	_	5	amod	_	Gloss=well|Translit=eeganni
+5	iitta	iitta	VERB	_	_	6	advmod	_	Gloss=killed|Translit=iitta
+6	hujeeki	hujeeki	ADJ	_	_	0	root	_	Gloss=like this|Translit=hujeeki
+7	dhudhdhuufi	dhudhdhuufi	NOUN	_	_	6	obj	_	Gloss=snake|Translit=dhudhdhuufi
+
+# sent_id = 29
+# text_ged = no?o bire bire?een hitta kn(ad)e aan(g)anno hiyya wodda
+# text_en = How would we get back? when the cock said to the eagle.
+1	no?o	no?o	PRON	_	_	2	nsubj	_	Gloss=we|Translit=no?o
+2	bire	bire	VERB	_	_	3	advmod	_	Gloss=finish-PFV|Translit=bire
+3	bire?een	bire?een	VERB	_	_	7	parataxis	_	Gloss=finish-3SG.M-DCL|Translit=bire?een
+4	hitta	hitta	ADV	_	_	3	advmod	_	Gloss=how|Translit=hitta
+5	kn(ad)e	kn(ad)e	VERB	_	_	6	advmod	_	Gloss=happen-1PL-PFV|Translit=kn(ad)e
+6	aan(g)anno	aan(g)anno	VERB	_	_	7	ccomp	_	Gloss=enter-1PL.IPFV-INT|Translit=aan(g)anno
+7	hiyya	hiyya	VERB	_	_	0	root	_	Gloss=say|Translit=hiyya
+
+# sent_id = 30
+# text_ged = ane?n waali hiyye
+# text_en = “leave it for me!” replied the eagle.
+1	ane?n	ane?n	PRON	_	_	2	iobj	_	Gloss=for-me|Translit=ane?n
+2	waali	waali	VERB	_	_	0	root	_	Gloss=leave-2SG.IMPV|Translit=waali
+3	hiyye	hiyye	VERB	_	_	2	parataxis	_	Gloss=say-3SG.M-PFV|Translit=hiyye
+
+# sent_id = 31
+# text_ged = sinbirri dhudhdhufa mitte ganen iima butti?aa aadhe
+# text_en = Then the eagle, having been hit once, brought the snake down to the ground.
+1	sinbirri	sinbirri	NOUN	_	_	2	nsubj	_	Gloss=eagle|Translit=sinbirri
+2	dhudhdhufa	dhudhdhufa	VERB	_	_	7	parataxis	_	Gloss=hit-3SG.M-PFV|Translit=dhudhdhufa
+3	mitte	mitte	NUM	_	NumType=Card	2	advmod	_	Gloss=one|Translit=mitte
+4	ganen	ganen	VERB	_	_	7	parataxis	_	Gloss=hit-3SG.M-PFV-PFV|Translit=hit
+5	iima	iima	ADV	_	_	4	advmod	_	Gloss=over|Translit=over
+6	butti?aa	butti?aa	NOUN	_	_	4	ccomp	_	Gloss=ground-to|Translit=ground-to
+7	aadhe	aadhe	VERB	_	_	0	root	_	Gloss=put-3SG.M-PFV|Translit=put
+
+# sent_id = 32
+# text_ged = ninife ʃiyyett'i woccaasseen mene mene hinaa wodda oranni
+# text_en = who abandoned and killed mauled after they traveled a while
+# text = ninife ʃiyyett'i woccaasseen mene hinaa wodda oranni
+1	ninife	ninife	NOUN	_	_	2	advmod	_	Gloss=wound|Translit=ninife
+2	ʃiyyett'i	ʃiyyett'i	VERB	_	_	7	acl	_	Gloss=kill-PFV|Translit=ʃiyyett'i
+3	woccaasseen	woccaasseen	VERB	_	_	2	advmod	_	Gloss=abandon-PFV|Translit=woccaasseen
+4	mene	mene	VERB	_	_	7	acl	_	Gloss=go-3PL-PFV|Translit=go
+5	hinaa	hinaa	ADV	_	_	4	acl	_	Gloss=while|Translit=hinaa
+6	wodda	wodda	NOUN	_	_	7	obl	_	Gloss=moment|Translit=wodda
+7	oranni	oranni	VERB	_	_	0	root	_	Gloss=road-FOC|Translit=oranni
+
+# sent_id = 33
+# text_ged = kinni kuniichchi iitta asseek no?oo biruuni hiyyaatt'e agabaassi
+# text_en = ‘Who did this, he won’t leave us alone. Agabaas said
+1	kinni	kinni	DET	_	_	4	obj	_	Gloss=this|Translit=kinni
+2	kuniichchi	kuniichchi	ADJ	_	_	4	nsubj	_	Gloss=this-SGV|Translit=kuniichchi
+3	iitta	iitta	NOUN	_	_	2	amod	_	Gloss=like-this|Translit=iitta
+4	asseek	asseek	VERB	_	_	7	acl	_	Gloss=do-PFV-who|Translit=asseek
+5	no?oo	no?oo	PRON	_	_	7	subj	_	Gloss=1SG.ABS|Translit=no?oo
+6	biruuni	biruuni	VERB	_	_	7	ccomp	_	Gloss=finish-1SG.IPFV|Translit=biruuni
+7	hiyyaatt'e	hiyyaatt'e	VERB	_	_	0	root	_	Gloss=say-2PL.IPFV|Translit=hiyyaatt'e
+8	agabaassi	agabaassi	NOUN	_	_	7	nsubj	_	Gloss=Agabaas|Translit=agabaassi
+
+# sent_id = 34
+# text_ged = gateeke sinbirri?aa lamalchik male koo lamaalcho hee
+# text_en = In the eagle’s absentia, the roaster advised the rat as saying.
+# text = gateeke sinbirri?aa lamalchik male koo lamalcho hee
+1	gateeke	gateeke	ADJ	_	_	4	nsubj	_	Gloss=absent.who|Translit=gateeke
+2	sinbirri?aa	sinbirri?aa	NOUN	_	_	1	nmod	_	_
+3	lamalchik	lamalchik	NOUN	_	_	4	nsubj	_	Gloss=rat|Translit=lamalchik
+4	male	male	CONJ	_	_	0	root	_	Gloss=with|Translit=male
+5	koo	koo	PRON	_	_	6	nmod	_	Gloss=you|Translit=koo
+6	lamalcho	lamalcho	NOUN	_	_	4	ccomp	_	Gloss=rooster|Translit=lamalcho
+7	hee	hee	ADV	_	_	6	nmod	_	Gloss=dear|Translit=hee
+
+# sent_id = 35
+# text_ged = ani boojjo?wenne hite
+# text_en = Tell the eagle I freeze.
+1	ani	ani	PRON	_	_	2	nsubj	_	Gloss=1SG.NOM|Translit=ani
+2	boojjo?wenne	boojjo?w-enne	VERB	_	_	0	root	_	Gloss=cold-1SG.PFV|Translit=boojjo?w-enne
+3	hite	hite	VERB	_	_	2	parataxis	_	Gloss=say-3SG.F-PFV|Translit=hite
+
+# sent_id = 36
+# text_ged = rok’oonsi amo keeli giddo hiyyaani
+# text_en = It is shivering me, let me get inside your wings.
+# text = ani boojjo?wenne hite rok’oonsi amo keeli giddo hiyyaani
+1	ani	ani	PRON	_	_	3	nsubj	_	Gloss=1SG.NOM|Translit=ani
+2	boojjo?wenne	boojjo?wenne	VERB	_	_	3	ccomp	_	Gloss=cold-1SG.PFV|Translit=boojjo?wenne
+3	hite	hite	VERB	_	_	0	root	_	Gloss=say-3SG.F-PFV|Translit=hite
+4	rok’oonsi	rok’oonsi	VERB	_	_	8	acl	_	Gloss=shiver-CUAS-ing|Translit=rok’oonsi
+5	amo	amo	VERB	_	_	4	ccomp	_	Gloss=come|Translit=amo
+6	keeli	keeli	NOUN	_	_	5	obj	_	Gloss=wings|Translit=keeli
+7	giddo	giddo	ADV	_	_	6	advmod	_	Gloss=inside|Translit=giddo
+8	hiyyaani	hiyyaani	VERB	_	_	3	acl	_	Gloss=saying|Translit=hiyyaani
+
+# sent_id = 37
+# text_ged = isi rok'oonse roqoonse hiyya wodda
+# text_en = ‘He trembled, trembled say’
+1	isi	isi	PRON	_	_	2	nsubj	_	Gloss=3SG.M.NOM|Translit=isi
+2	rok’oonse	rok’oonse	VERB	_	_	0	root	_	Gloss=tremble-2SG.M-PFV|Translit=rok’oonse
+3	roqoonse	roqoonse	VERB	_	_	2	parataxis	_	Gloss=tremble-2SG.M-PFV|Translit=roqoonse
+4	hiyya	hiyya	VERB	_	_	2	acl	_	Gloss=say-2SG.M-IPFV|Translit=hiyya
+5	wodda	wodda	NOUN	_	_	4	advmod	_	Gloss=moment|Translit=wodda
+
+# sent_id = 38
+# text_ged = amotaata keeli anik giddo hiyyeen keeli giddo e?ye
+# text_en = ‘When he said to you come inside my wings, having entered inside the wings.’
+1	amotaata	amotaata	VERB	_	_	5	acl	_	Gloss=come-2SG.IPFV|Translit=amotaata
+2	keeli	keeli	NOUN	_	_	1	obl	_	Gloss=wing-GEN|Translit=keeli
+3	anik	anik	PRON	_	_	2	amod	_	Gloss=1SG-GEN.M|Translit=anik
+4	giddo	giddo	ADP	_	_	2	case	_	Gloss=inside|Translit=giddo
+5	hiyyeen	hiyyeen	VERB	_	_	0	root	_	Gloss=say-3SG.M-PFV-DCL|Translit=hiyyeen
+6	keeli	keeli	NOUN	_	_	8	ccomp	_	Gloss=wing-GEN|Translit=keeli
+7	giddo	giddo	ADP	_	_	6	advmod	_	Gloss=inside|Translit=giddo
+8	e?ye	e?ye	VERB	_	_	5	parataxis	_	Gloss=enter|Translit=e?ye
+
+# sent_id = 39
+# text_ged = keela sinburiinka kukkute lugi asse me?abaaʃʃa assineechchinni
+# text_en = ‘As it has been ordered by the roaster, the rat detached the wings, disfiguring the eagle so that he can no longer fly.’
+1	keela	keela	NOUN	_	_	5	obl	_	Gloss=wing|Translit=keela
+2	sinburiinka	sinburiinka	NOUN	_	_	1	nmod	_	Gloss=eagle-GEN.M|Translit=sinburiinka
+3	kukkute	kukkute	VERB	_	_	5	acl	_	Gloss=detach-3SG.M-PFV|Translit=kukkute
+4	lugi	lugi	ADJ	_	_	5	amod	_	Gloss=disfigure-ing|Translit=lugi
+5	asse	asse	VERB	_	_	0	root	_	Gloss=do-3SG.M.PFV|Translit=asse
+6	me?abaaʃʃa	me?abaaʃʃa	VERB	_	_	5	parataxis	_	Gloss=fly-IPFV-NEG-that|Translit=me?abaaʃʃa
+7	assineechchinni	assineechchinni	AUX	_	_	6	aux	_	Gloss=do-EP-3PL-PFV-FOC|Translit=assineechchinni
+
+# sent_id = 40
+# text_ged = aan(g)e dan(g)aa wodda aan(g)-eennett'a egennannoʃʃa du?lino hiyyati
+# text_en = ‘The roaster said let us slaughter one of the cattle to mark our return’
+1	aan(g)e	aan(g)e	VERB	_	_	7	nsubj	_	Gloss=return|Translit=aan(g)e
+2	dan(g)aa	dan(g)aa	ADJ	_	_	5	advcl	_	Gloss=come|Translit=dan(g)aa
+3	wodda	wodda	NOUN	_	_	2	advmod	_	Gloss=moment|Translit=wodda
+4	aan(g)-eennett'a	aan(g)-eennett'a	VERB	_	_	5	ccomp	_	Gloss=return-that|Translit=aan(g)-eennett'a
+5	egennannoʃʃa	egennannoʃʃa	VERB	_	_	7	acl	_	Gloss=know-1PL.PFV|Translit=egennannoʃʃa
+6	du?lino	du?lino	ADJ	_	_	7	obj	_	Gloss=slaughter-for|Translit=du?lino
+7	hiyyati	hiyyati	NOUN	_	_	0	root	_	Gloss=cattle|Translit=hiyyati
+
+# sent_id = 41
+# text_ged = du?line in(d)a?ni gleechchinni
+# text_en = Having slaughtered and eaten, they spent the night.
+1	du?line	du?line	VERB	_	_	2	ccomp	_	Gloss=slaughter|Translit=du?line
+2	in(d)a?ni	in(d)a?ni	VERB	_	_	3	acl	_	Gloss=eat|Translit=in(d)a?ni
+3	gleechchinni	gleechchinni	VERB	_	_	0	root	_	Gloss=spend-NIGHT|Translit=gleechchinni
+
+# sent_id = 42
+# text_ged = ardikinna dudhdhinnett'a ege?no?aa
+# text_en = Then, he said to the rat to let the public know that we fried.
+1	ardikinna	ardikinna	NOUN	_	_	3	obj	_	Gloss=public|Translit=ardikinna
+2	dudhdhinnett'a	dudhdhinnett'a	VERB	_	_	3	acl	_	Gloss=fry|Translit=dudhdhinnett'a
+3	ege?no?aa	ege?no?aa	VERB	_	_	0	root	_	Gloss=know|Translit=ege?no?aa
+
+# sent_id = 43
+# text_ged = amoo
+# text_en = come!
+1	amoo	amoo	VERB	_	_	0	root	_	Gloss=come|Translit=amoo
+
+# sent_id = 44
+# text_ged = kinjo okkone?n iima satt'e?e uurriyyati
+# text_en = Stand on that stone!
+1	kinjo	kinjo	NOUN	_	_	5	ccomp	_	Gloss=stone|Translit=kinjo
+2	okkone?n	okkone?n	ADP	_	_	1	det	_	Gloss=on|Translit=okkone?n
+3	iima	iima	ADV	_	_	1	nmod	_	Gloss=that|Translit=iima
+4	satt'e?e	satt'e?e	VERB	_	_	5	advmod	_	Gloss=rise-up-3SG.F-CV|Translit=satt'e?e
+5	uurriyyati	uurriyyati	VERB	_	_	0	root	_	Gloss=stand-3SG.F-IPV|Translit=uurriyyati
+
+# sent_id = 45
+# text_ged = mooro?o lamaalchoke?n hana ugge?e ergeen
+# text_en = The roaster ordered the rat declared, putting the fatty meat on top of the rat
+1	mooro?o	mooro?o	NOUN	_	_	5	nsubj	_	Gloss=roaster|Translit=mooro?o
+2	lamaalchoke?n	lamaalchoke?n	NOUN	_	_	5	obl	_	Gloss=rat|Translit=lamaalchoke?n
+3	hana	hana	ADP	_	_	2	case	_	Gloss=on|Translit=hana
+4	ugge?e	ugge?e	ADJ	_	_	5	obj	_	Gloss=fatty|Translit=ugge?e
+5	ergeen	ergeen	VERB	_	_	0	root	_	Gloss=put-PFV|Translit=ergeen
+
+# sent_id = 46
+# text_ged = lamaalchikinna hiyyemmanʃanni assa wodda jole isoo mitte ganen adhdhite satt'een ookkoneechchi udumi?aa iitta kade?e
+# text_en = While performing as it was told, in a moment a hawk at once struck and took up the rat.
+1	lamaalchikinna	lamaalchikinna	NOUN	_	_	3	nsubj	_	Gloss=rat|Translit=lamaalchikinna
+2	hiyyemmanʃanni	hiyyemmanʃanni	VERB	_	_	3	advmod	_	Gloss=say-PFV-PST|Translit=hiyyemmanʃanni
+3	assa	assa	ADP	_	_	8	parataxis	_	Gloss=do-IPFV|Translit=assa
+4	wodda	wodda	NOUN	_	_	3	advmod	_	Gloss=moment|Translit=wodda
+5	jole	jole	NOUN	_	_	8	nsubj	_	Gloss=hawk|Translit=jole
+6	isoo	isoo	PRON	_	_	8	obj	_	Gloss=3SG.ABS|Translit=isoo
+7	mitte	mitte	NUM	_	NumType=Card	8	advmod	_	Gloss=one|Translit=mitte
+8	ganen	ganen	VERB	_	_	0	root	_	Gloss=strike-PFV|Translit=ganen
+9	adhdhite	adhdhite	VERB	_	_	8	parataxis	_	Gloss=take-PFV|Translit=adhdhite
+10	satt'een	satt'een	VERB	_	_	8	advmod	_	Gloss=rise-up-PFV|Translit=satt'een
+11	ookkoneechchi	ookkoneechchi	VERB	_	_	14	ccomp	_	Gloss=do|Translit=ookkoneechchi
+12	udumi?aa	udumi?aa	NOUN	_	_	14	advmod	_	Gloss=rat|Translit=udumi?aa
+13	iitta	iitta	ADP	_	_	14	obj	_	Gloss=inside|Translit=iitta
+14	kade?e	kade?e	VERB	_	_	8	ccomp	_	Gloss=happen-CV|Translit=kade?e
+
+# sent_id = 47
+# text_ged = lukkichchi mali lole (duule’e) karra ifi?aa calla gatisedhe?e
+# text_en = ‘The disabled cock having fought cleverly, kept hold of the property only for himself.’
+1	lukkichchi	lukkichchi	NOUN	_	_	3	nsubj	_	Gloss=cock|Translit=lukkichchi
+2	mali	mali	ADJ	_	_	1	amod	_	Gloss=disabled|Translit=mali
+3	lolle	lolle	VERB	_	_	6	parataxis	_	Gloss=fight|Translit=lolle
+4	karra	karra	NOUN	_	_	6	obj	_	Gloss=property|Translit=karra
+5	ifi?aa	ifi?aa	PRON	_	_	6	nmod	_	Gloss=self-DAT|Translit=ifi?aa
+6	calla	calla	VERB	_	_	0	root	_	Gloss=hold-MD-CV|Translit=calla
+7	gatisedhe?e	gatisedhe?e	VERB	_	_	6	ccomp	_	Gloss=alone|Translit=gatisedhe?e
+
