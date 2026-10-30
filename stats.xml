@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>47</sentences><tokens>269</tokens><words>269</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>47</sentences><tokens>269</tokens><words>269</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="209" /><!-- wodda, ", ati, atitt'i, mitteten, ani, giddo, hiyya, hiyye, iitta, keeli, lamaalchi, lukkichchi, malik, mitte -->
+  <forms unique="209" /><!-- wodda, ati, atitt'i, mitteten, ani, giddo, hiyya, hiyye, iitta, keeli, lamaalchi, lukkichchi, malik, mitte, bire -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADJ">15</tag><!-- barra, birri, dalla?ake?n, dan(g)aa, du?lino, edii?n, fadhadik, gateeke, heenochchi, hujeeki -->
+    <tag name="ADP">6</tag><!-- giddo, assa, hana, iitta, okkone?n -->
+    <tag name="ADV">16</tag><!-- wodda, haba, hitta, iima, malik, dan(g)e?e, futtiyya, giddo, hee, hinaa -->
+    <tag name="AUX">2</tag><!-- assineechchinni, mitti -->
+    <tag name="CCONJ">1</tag><!-- male -->
+    <tag name="DET">1</tag><!-- kinni -->
+    <tag name="NOUN">71</tag><!-- wodda, keeli, lamaalchi, lukkichchi, duulo, ille, lekka, t'ingo, abboo, agabaasinni -->
+    <tag name="NUM">6</tag><!-- mitte, mitteten, lamik -->
+    <tag name="PART">2</tag><!-- hee, te?n -->
+    <tag name="PRON">33</tag><!-- ati, atitt'i, ani, isi, isoo, kuni, no?o, ane?n, anik, ha?noo -->
+    <tag name="PROPN">1</tag><!-- agabaasi -->
+    <tag name="PUNCT">5</tag><!-- ", - -->
+    <tag name="SCONJ">1</tag><!-- woddi -->
+    <tag name="VERB">109</tag><!-- hiyya, hiyye, duuldatto, ganen, hite, hiyye?e, k'urubbi, martaatte, mena?ni, mene -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="17">
+    <feat name="Aspect" value="Imp" upos="VERB">19</feat><!-- k'urubbi, martaatte, mena?ni, ajajememmanʃanni, bobbaaneen, dagammaka, dhakk'anbaaʃʃa, duulannon, duuldatto, e?yinaa -->
+    <feat name="Aspect" value="Perf" upos="VERB">14</feat><!-- hiyye?e, asse?e, bireen, birree, duuldineeka, futtine, futtineett'i, hiissa, huje, ke?ne?e -->
+    <feat name="Case" value="Abs" upos="PRON">1</feat><!-- isoo -->
+    <feat name="Case" value="Com" upos="NOUN">1</feat><!-- agabaasinni -->
+    <feat name="Case" value="Gen" upos="NOUN,PRON">3</feat><!-- atitt'i, duulanno-n -->
+    <feat name="Case" value="LOC" upos="NOUN">1</feat><!-- duuloke -->
+    <feat name="Case" value="Nom" upos="NOUN">5</feat><!-- lamaalchi, ille, lekka -->
+    <feat name="Mood" value="Ind" upos="VERB">2</feat><!-- duulannon, duuldineeka -->
+    <feat name="Mood" value="Int" upos="VERB">1</feat><!-- duuldatto -->
+    <feat name="Number" value="Plur" upos="VERB">3</feat><!-- duuldineeka, futtineett'i, ke?ne?e -->
+    <feat name="Number" value="Sing" upos="VERB">2</feat><!-- duulannon, duuldatto -->
+    <feat name="NumType" value="Card" upos="NUM">6</feat><!-- mitte, mitteten, lamik -->
+    <feat name="Person" value="1" upos="VERB">1</feat><!-- duulannon -->
+    <feat name="Person" value="2" upos="VERB">2</feat><!-- duuldatto, duuldineeka -->
+    <feat name="PronType" value="Prs" upos="PRON">2</feat><!-- ha?noo, isinna -->
+    <feat name="Tense" value="PFT" upos="VERB">8</feat><!-- e?yineett'i, enk'inee, fulchine, gennee, ke?nee, mene, meneett'i, olfine?e -->
+    <feat name="VerbForm" value="Conv" upos="VERB">2</feat><!-- futtineett'i, mena?ni -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="19">
+    <dep name="acl">19</dep>
+    <dep name="advcl">9</dep>
+    <dep name="advmod">34</dep>
+    <dep name="amod">11</dep>
+    <dep name="aux">1</dep>
+    <dep name="case">2</dep>
+    <dep name="ccomp">28</dep>
+    <dep name="compound">2</dep>
+    <dep name="det">3</dep>
+    <dep name="iobj">1</dep>
+    <dep name="mark">1</dep>
+    <dep name="nmod">17</dep>
+    <dep name="nsubj">39</dep>
+    <dep name="nummod">2</dep>
+    <dep name="obj">16</dep>
+    <dep name="obl">16</dep>
+    <dep name="parataxis">16</dep>
+    <dep name="punct">5</dep>
+    <dep name="root">47</dep>
+  </deps>
+</treebank>

@@ -44,15 +44,15 @@
 2	isoo	isoo	PRON	_	Case=Abs	8	obj	_	Gloss=3SG.ABS|Translit=isoo
 3	“	"	PUNCT	_	_	5	punct	_	Gloss=“|SpaceAfter=No|Translit=“
 4	haba	haba	ADV	_	_	5	advmod	_	Gloss=where|Translit=haba
-5	martaatte	martaatte	VERB	_	Tense=IPFV	8	ccomp	_	Gloss=go-2SG.IPFV-INT|SpaceAfter=No|Translit=martaatte
+5	martaatte	martaatte	VERB	_	Aspect=Imp	8	ccomp	_	Gloss=go-2SG.IPFV-INT|SpaceAfter=No|Translit=martaatte
 6	”	"	PUNCT	_	_	5	punct	_	Gloss=”|Translit=”
 7	hiyye	hiyye	VERB	_	_	8	compound	_	Gloss=say-PFV|Translit=hiyye
-8	qoraammale	qoraammale	VERB	_	Tense=IPFV	13	parataxis	_	Gloss=ask-IPFV-PST|Translit=qoraammale
+8	qoraammale	qoraammale	VERB	_	Aspect=Imp	13	parataxis	_	Gloss=ask-IPFV-PST|Translit=qoraammale
 9	“	"	PUNCT	_	_	11	punct	_	Gloss=“|SpaceAfter=No|Translit=“
 10	duwo	duwo	NOUN	_	_	11	obj	_	Gloss=expedition|Translit=duwo
-11	marannen	marannen	VERB	_	Tense=IPFV	13	ccomp	_	Gloss=go-1SG.IPFV-DCL|SpaceAfter=No|Translit=marannen
+11	marannen	marannen	VERB	_	Aspect=Imp	13	ccomp	_	Gloss=go-1SG.IPFV-DCL|SpaceAfter=No|Translit=marannen
 12	”	"	PUNCT	_	_	11	punct	_	Gloss=”|Translit=”
-13	hiyya	hiyya	VERB	_	Tense=IPFV	0	root	_	Gloss=say-IPFV|Translit=hiyya
+13	hiyya	hiyya	VERB	_	Aspect=Imp	0	root	_	Gloss=say-IPFV|Translit=hiyya
 14	wodda	wodda	ADV	_	_	13	advmod	_	Gloss=moment|Translit=wodda
 
 # sent_id = 6
@@ -70,13 +70,13 @@
 # sent_id = 7
 # text = hiyye?e lamaalchi k'orammale malik duulanno-n hiyye?e hiissa woddi
 # text_en = Asked the rat saying, he replied saying ‘I will fight wit-fully’.
-1	hiyye?e	hiyye?e	VERB	_	Tense=PFV	3	ccomp	_	Gloss=say-PFV.CV|Translit=hiyye?e
+1	hiyye?e	hiyye?e	VERB	_	Aspect=Perf	3	ccomp	_	Gloss=say-PFV.CV|Translit=hiyye?e
 2	lamaalchi	lamaalchi	NOUN	_	Case=Nom	3	nsubj	_	Gloss=rat|Translit=lamaalchi
-3	k'orammale	k'orammale	VERB	_	Tense=IPFV	0	root	_	Gloss=ask-IPFV-PST|Translit=k'orammale
+3	k'orammale	k'orammale	VERB	_	Aspect=Imp	0	root	_	Gloss=ask-IPFV-PST|Translit=k'orammale
 4	malik	malik	ADV	_	_	5	advmod	_	Gloss=clever|Translit=malik
 5	duulanno-n	duulanno-n	NOUN	_	Case=Gen	6	ccomp	_	Gloss=ingenuity-EP-with|Translit=duulanno-n
-6	hiyye?e	hiyye?e	VERB	_	Tense=PFV	7	advcl	_	Gloss=say-PFV.CV|Translit=hiyye?e
-7	hiissa	hiissa	VERB	_	Tense=PFV	3	advcl	_	Gloss=reply-PFV|Translit=hiissa
+6	hiyye?e	hiyye?e	VERB	_	Aspect=Perf	7	advcl	_	Gloss=say-PFV.CV|Translit=hiyye?e
+7	hiissa	hiissa	VERB	_	Aspect=Perf	3	advcl	_	Gloss=reply-PFV|Translit=hiissa
 8	woddi	woddi	SCONJ	_	_	7	advmod	_	Gloss=moment|Translit=woddi
 
 # sent_id = 8
@@ -99,16 +99,16 @@
 1	agabaasinni	agabaasinni	NOUN	_	Case=Com	2	nmod	_	Gloss=agabaas-EP-with|Translit=agabaasinni
 2	lamaalchi	lamaalchi	NOUN	_	Case=Nom	4	nsubj	_	Gloss=rat-NOM|Translit=lamaalchi
 3	duulo	duulo	NOUN	_	_	4	obl	_	Gloss=expedition|Translit=duulo
-4	bobbaaneen	bobbaaneen	VERB	_	Tense=IPFV	0	root	_	Gloss=mobilize-1SG.IPFV-DCL|Translit=bobbaaneen
+4	bobbaaneen	bobbaaneen	VERB	_	Aspect=Imp	0	root	_	Gloss=mobilize-1SG.IPFV-DCL|Translit=bobbaaneen
 
 # sent_id = 10
 # text = lamik mena?ni sinibirik futtine
 # text_ged = lamik mena?ni sinibirik futtine
 # text_en = While the two were going,they met an eagle.
 1	lamik	lamik	NUM	_	NumType=Card	2	nsubj	_	Gloss=two-EP-with|Translit=lamik
-2	mena?ni	mena?ni	VERB	_	Tense=IPFV	4	advcl	_	Gloss=go-2PL.IPV|Translit=mena?ni
+2	mena?ni	mena?ni	VERB	_	Aspect=Imp	4	advcl	_	Gloss=go-2PL.IPV|Translit=mena?ni
 3	sinibirik	sinibirik	NOUN	_	_	4	obl	_	Gloss=eagle-EP-with|Translit=sinibirik
-4	futtine	futtine	VERB	_	Tense=PFV	0	root	_	Gloss=meet-2PL-PFV|Translit=futtine
+4	futtine	futtine	VERB	_	Aspect=Perf	0	root	_	Gloss=meet-2PL-PFV|Translit=futtine
 
 # sent_id = 11
 # text = sinibir agabaasi hee haba martaatte
@@ -118,14 +118,14 @@
 2	agabaasi	agabaasi	PROPN	_	_	5	obl	_	Gloss=Agabaas|Translit=agabaasi
 3	hee	hee	PART	_	_	2	nmod	_	Gloss=dear|Translit=hee
 4	haba	haba	ADV	_	_	5	advmod	_	Gloss=where|Translit=haba
-5	martaatte	martaatte	VERB	_	Tense=IPFV	0	root	_	Gloss=go-2SG.IPFV-INT|Translit=martaatte
+5	martaatte	martaatte	VERB	_	Aspect=Imp	0	root	_	Gloss=go-2SG.IPFV-INT|Translit=martaatte
 
 # sent_id = 12
 # text = duuloke maraannen isi edii?n me?a?neen
 # text_ged = duuloke maraannen isi edii?n me?a?neen
 # text_en = I am going to military expedition, he replied going on the front.
 1	duuloke	duuloke	NOUN	_	Case=LOC	2	obj	_	Gloss=expedition-COP.F|Translit=duuloke
-2	maraannen	maraannen	VERB	_	Tense=IPFV	5	ccomp	_	Gloss=go-1SG.IPFV-DCL|Translit=maraannen
+2	maraannen	maraannen	VERB	_	Aspect=Imp	5	ccomp	_	Gloss=go-1SG.IPFV-DCL|Translit=maraannen
 3	isi	isi	PRON	_	_	5	nsubj	_	Gloss=he|Translit=isi
 4	edii?n	edii?n	ADJ	_	_	5	ccomp	_	Gloss=front|Translit=edii?n
 5	me?a?neen	me?a?neen	VERB	_	_	0	root	_	Gloss=go-1SG.IPFV-DCL|Translit=me?a?neen
@@ -151,14 +151,14 @@
 # text_ged = hitta duuldatto
 # text_en = How do you fight? asked the eagle.
 1	hitta	hitta	ADV	_	_	2	advmod	_	Gloss=how|Translit=hitta
-2	duuldatto	duuldatto	VERB	_	Mood=Int|Number=Sing|Person=2|Tense=IPFV	0	root	_	Gloss=fight-2SG.IPFV-INT|Translit=duuldatto
+2	duuldatto	duuldatto	VERB	_	Aspect=Imp|Mood=Int|Number=Sing|Person=2	0	root	_	Gloss=fight-2SG.IPFV-INT|Translit=duuldatto
 
 # sent_id = 16
 # text = malik duulannon
 # text_ged = malik duulannon
 # text_en = He replied I will fight cleverly.
 1	malik	malik	ADV	_	_	2	advmod	_	Gloss=clever-EP-with|Translit=malik
-2	duulannon	duulannon	VERB	_	Aspect=IPFV|Mood=Ind|Number=Sing|Person=1	0	root	_	Gloss=fight-1SG.IPFV-DCL|Translit=duulannon
+2	duulannon	duulannon	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1	0	root	_	Gloss=fight-1SG.IPFV-DCL|Translit=duulannon
 
 # sent_id = 17
 # text = isinna ha?noo duuldineeka
@@ -166,15 +166,15 @@
 # text_en = He said if you go for expedition, why not me.
 1	isinna	isinna	PRON	_	PronType=Prs	3	nsubj	_	Gloss=3SG-FOC|Translit=isinna
 2	ha?noo	ha?noo	PRON	_	PronType=Prs	3	obl	_	Gloss=2PL.ABS|Translit=ha?noo
-3	duuldineeka	duuldineeka	VERB	_	Aspect=PFV|Mood=Ind|Number=Plur|Person=2|Tense=PFV	0	root	_	Gloss=expedite-2PL.PFV-for|Translit=duuldineeka
+3	duuldineeka	duuldineeka	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2	0	root	_	Gloss=expedite-2PL.PFV-for|Translit=duuldineeka
 
 # sent_id = 18
 # text = mena?ni dudhdhufik futtineett'i
 # text_ged =  mena?ni dudhdhufik futtineett'i
 # text_en = While going, they met with a python.
-1	mena?ni	mena?ni	VERB	_	Aspect=CV|Tense=IPFV|VerbForm=Conv	3	advcl	_	Gloss=go-2PL.CV.while|Translit=mena?ni
+1	mena?ni	mena?ni	VERB	_	Aspect=Imp|VerbForm=Conv	3	advcl	_	Gloss=go-2PL.CV.while|Translit=mena?ni
 2	dudhdhufik	dudhdhufik	NOUN	_	_	3	obl	_	Gloss=python-EP-with|Translit=dudhdhufik
-3	futtineett'i	futtineett'i	VERB	_	Aspect=CV|Number=Plur|Tense=PFV|VerbForm=Conv	0	root	_	Gloss=meet-3PL.PFV/CV|Translit=futtineett'i
+3	futtineett'i	futtineett'i	VERB	_	Aspect=Perf|Number=Plur|VerbForm=Conv	0	root	_	Gloss=meet-3PL.PFV/CV|Translit=futtineett'i
 
 # sent_id = 19
 # text_ged = isoonna lepp'ati shoolik duulokee ke?ne?e
@@ -184,7 +184,7 @@
 2	lepp'ati	lepp'ati	NOUN	_	_	5	parataxis	_	Gloss=expedition-member-GEN.F|Translit=lepp'ati
 3	shoolik	shoolik	NOUN	_	_	5	nsubj	_	Gloss=member|Translit=shoolik
 4	duulokee	duulokee	NOUN	_	_	5	ccomp	_	Gloss=expedition|Translit=duulokee
-5	ke?ne?e	ke?ne?e	VERB	_	Number=Plur|Tense=PFV	0	root	_	Gloss=rise-3PL.PFV|Translit=ke?ne?e
+5	ke?ne?e	ke?ne?e	VERB	_	Aspect=Perf|Number=Plur	0	root	_	Gloss=rise-3PL.PFV|Translit=ke?ne?e
 
 # sent_id = 20
 # text = mene meneett'i gennee duuliinba
@@ -214,12 +214,12 @@
 2	woldonni	woldonni	NOUN	_	_	3	obj	_	Gloss=past-FOC|Translit=woldonni
 3	jabaken	jabaken	ADJ	_	_	6	acl	_	Gloss=strong-COP.M|Translit=jabaken
 4	dalla?ake?n	dalla?ake?n	ADJ	_	_	5	obl	_	Gloss=door-at|Translit=dalla?ake?n
-5	uurrite	uurrite	VERB	_	Tense=PFV	6	ccomp	_	Gloss=stand-EP-3SG-PFV|Translit=uurrite
+5	uurrite	uurrite	VERB	_	Aspect=Perf	6	ccomp	_	Gloss=stand-EP-3SG-PFV|Translit=uurrite
 6	iddi	iddi	PRON	_	_	0	root	_	Gloss=sting-2SG.IPV|Translit=iddi
 7	ati	ati	PRON	_	_	6	nsubj	_	Gloss=2SG|Translit=ati
 8	konne?e	konne?e	PRON	_	_	9	det	_	Gloss=those|Translit=konne?e
 9	manna	manna	NOUN	_	_	10	nsubj	_	Gloss=people|Translit=manna
-10	dagammaka	dagammaka	VERB	_	Tense=IPFV	6	acl	_	Gloss=come|Translit=dagammaka
+10	dagammaka	dagammaka	VERB	_	Aspect=Imp	6	acl	_	Gloss=come|Translit=dagammaka
 
 # sent_id = 23
 # text = lamaalokanna ati fadhadik no?o ʃorrine dhakk'anbaaʃʃa reruwwattanna
@@ -229,8 +229,8 @@
 2	ati	ati	PRON	_	_	5	nsubj	_	Gloss=2SG|Translit=ati
 3	fadhadik	fadhadik	ADJ	_	_	4	nmod	_	Gloss=horse-EP-with|Translit=fadhadik
 4	no?o	no?o	PRON	_	_	5	obj	_	Gloss=with|Translit=no?o
-5	ʃorrine	ʃorrine	VERB	_	Tense=IPFV	0	root	_	Gloss=chase-EP-3PL-PFV|Translit=ʃorrine
-6	dhakk'anbaaʃʃa	dhakk'anbaaʃʃa	VERB	_	Tense=IPFV	5	ccomp	_	Gloss=catch-up-IPFV.3PL-NEG-that|Translit=dhakk'anbaaʃʃa
+5	ʃorrine	ʃorrine	VERB	_	Aspect=Imp	0	root	_	Gloss=chase-EP-3PL-PFV|Translit=ʃorrine
+6	dhakk'anbaaʃʃa	dhakk'anbaaʃʃa	VERB	_	Aspect=Imp	5	ccomp	_	Gloss=catch-up-IPFV.3PL-NEG-that|Translit=dhakk'anbaaʃʃa
 7	reruwwattanna	reruwwattanna	NOUN	_	_	5	ccomp	_	Gloss=saddle-PL-and|Translit=reruwwattanna
 
 # sent_id = 24
@@ -239,30 +239,30 @@
 # text_en = You cut their bridles into pieces completely!
 1	bit'aaluwwa	bit'aaluwwa	NOUN	_	_	3	obj	_	Gloss=bridle-PL|Translit=bit'aaluwwa
 2	insa?neka	insa?neka	PRON	_	_	1	amod	_	Gloss=3PL-GEN.ABS|Translit=insa?neka
-3	kukkutte	kukkutte	VERB	_	Tense=PFV	0	root	_	Gloss=cut into piece-PFV|Translit=kukkutte
+3	kukkutte	kukkutte	VERB	_	Aspect=Perf	0	root	_	Gloss=cut into piece-PFV|Translit=kukkutte
 4	birri	birri	ADJ	_	_	3	advmod	_	Gloss=finish-2SG.IPV|Translit=birri
-5	ajajememmanʃanni	ajajememmanʃanni	VERB	_	Tense=IPFV	3	advcl	_	Gloss=order-PAS-PFV-PST-?-that|Translit=ajajememmanʃanni
+5	ajajememmanʃanni	ajajememmanʃanni	VERB	_	Aspect=Imp	3	advcl	_	Gloss=order-PAS-PFV-PST-?-that|Translit=ajajememmanʃanni
 6	lamalchikinna	lamalchikinna	NOUN	_	_	5	ccomp	_	Gloss=rat|Translit=lamalchikinna
 
 # sent_id = 25
 # text = k'urubbi k'urubbi asse?e bireen
 # text_ged = k'urubbi k'urubbi asse?e bireen
 # text_en = Detach! Detach! He has done and completed the job.
-1	k'urubbi	k'urubbi	VERB	_	Tense=IPFV	4	parataxis	_	Gloss=detach-2SG.IPFV|Translit=k'urubbi
-2	k'urubbi	k'urubbi	VERB	_	Tense=IPFV	4	parataxis	_	Gloss=detach-2SG.IPFV|Translit=k'urubbi
-3	asse?e	asse?e	VERB	_	Tense=PFV	4	acl	_	Gloss=do-CV|Translit=asse?e
-4	bireen	bireen	VERB	_	Tense=PFV	0	root	_	Gloss=finish-2SG-PFV-DCL|Translit=bireen
+1	k'urubbi	k'urubbi	VERB	_	Aspect=Imp	4	parataxis	_	Gloss=detach-2SG.IPFV|Translit=k'urubbi
+2	k'urubbi	k'urubbi	VERB	_	Aspect=Imp	4	parataxis	_	Gloss=detach-2SG.IPFV|Translit=k'urubbi
+3	asse?e	asse?e	VERB	_	Aspect=Perf	4	acl	_	Gloss=do-CV|Translit=asse?e
+4	bireen	bireen	VERB	_	Aspect=Perf	0	root	_	Gloss=finish-2SG-PFV-DCL|Translit=bireen
 
 # sent_id = 26
 # text = huje insa?ne?aa uwwendeett'a birree dan(g)e?e e?yinaa wodda
 # text_ged = huje insa?ne?aa uwwendeett'a birree dan(g)e?e e?yinaa wodda
 # text_en = ‘Having finished their mission, upon their return….’
-1	huje	huje	VERB	_	Tense=PFV	4	obl	_	Gloss=work-PFV|Translit=huje
+1	huje	huje	VERB	_	Aspect=Perf	4	obl	_	Gloss=work-PFV|Translit=huje
 2	insa?ne?aa	insa?ne?aa	PRON	_	_	1	amod	_	Gloss=3PL-DAT|Translit=insa?ne?aa
-3	uwwendeett'a	uwwendeett'a	VERB	_	Tense=PFV	4	acl	_	Gloss=give-PFV-FOC.F|Translit=uwwendeett'a
-4	birree	birree	VERB	_	Tense=PFV	0	root	_	Gloss=finish-PFV|Translit=birree
+3	uwwendeett'a	uwwendeett'a	VERB	_	Aspect=Perf	4	acl	_	Gloss=give-PFV-FOC.F|Translit=uwwendeett'a
+4	birree	birree	VERB	_	Aspect=Perf	0	root	_	Gloss=finish-PFV|Translit=birree
 5	dan(g)e?e	dan(g)e?e	ADV	_	_	4	acl	_	Gloss=come-CV|Translit=dan(g)e?e
-6	e?yinaa	e?yinaa	VERB	_	Tense=IPFV	5	advmod	_	Gloss=enter-EP-2PL-IPFV|Translit=e?yinaa
+6	e?yinaa	e?yinaa	VERB	_	Aspect=Imp	5	advmod	_	Gloss=enter-EP-2PL-IPFV|Translit=e?yinaa
 7	wodda	wodda	ADV	_	_	5	advmod	_	Gloss=moment|Translit=wodda
 
 # sent_id = 27
