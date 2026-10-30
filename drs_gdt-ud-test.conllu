@@ -63,8 +63,8 @@
 3	mitteten	mitteten	NUM	_	NumType=Card	8	ccomp	_	Gloss=one
 4	lekka	lekka	NOUN	_	_	6	nsubj	_	Gloss=leg
 5	atitt'i	ati	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Gloss=2SG-GEN
-6	mitteten	mitteten	NUM	_	NumType=Card	8	ccomp	_	Gloss=one
-7	mayik	mayik	PRON	_	_	8	obl	_	Gloss=what
+6	mitteten	mitteten	NUM	_	NumType=Card	3	conj	_	Gloss=one
+7	mayik	mayik	PRON	_	PronType=Int	8	obl	_	Gloss=what
 8	duuldatto	duuldatto	VERB	_	_	0	root	_	Gloss=fight-2SG.IPFV-INT
 
 # sent_id = 7
@@ -214,12 +214,12 @@
 2	woldonni	woldonni	NOUN	_	_	3	obj	_	Gloss=past-FOC
 3	jabaken	jabaken	ADJ	_	_	6	acl	_	Gloss=strong-COP.M
 4	dalla?ake?n	dalla?ake?n	ADJ	_	_	5	obl	_	Gloss=door-at
-5	uurrite	uurrite	VERB	_	Aspect=Perf	6	ccomp	_	Gloss=stand-EP-3SG-PFV
-6	iddi	iddi	PRON	_	_	0	root	_	Gloss=sting-2SG.IPV
+5	uurrite	uurrite	VERB	_	Aspect=Perf	6	advcl	_	Gloss=stand-EP-3SG-PFV
+6	iddi	iddi	VERB	_	_	0	root	_	Gloss=sting-2SG.IPV
 7	ati	ati	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Gloss=2SG
 8	konne?e	konne?e	PRON	_	_	9	det	_	Gloss=those
 9	manna	manna	NOUN	_	_	10	nsubj	_	Gloss=people
-10	dagammaka	dagammaka	VERB	_	Aspect=Imp	6	acl	_	Gloss=come
+10	dagammaka	dagammaka	VERB	_	Aspect=Imp	6	ccomp	_	Gloss=come
 
 # sent_id = 23
 # text = lamaalokanna ati fadhadik no?o ʃorrine dhakk'anbaaʃʃa reruwwattanna
