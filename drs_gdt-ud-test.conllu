@@ -390,7 +390,7 @@
 # text_en = ‘When he said to you come inside my wings, having entered inside the wings.’
 1	amotaata	amotaata	VERB	_	_	5	acl	_	Gloss=come-2SG.IPFV
 2	keeli	keeli	NOUN	_	_	1	obl	_	Gloss=wing-GEN
-3	anik	anik	PRON	_	_	2	amod	_	Gloss=1SG-GEN.M
+3	anik	ani	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	amod	_	Gloss=1SG-GEN.M
 4	giddo	giddo	ADP	_	_	2	case	_	Gloss=inside
 5	hiyyeen	hiyyeen	VERB	_	_	0	root	_	Gloss=say-3SG.M-PFV-DCL
 6	keeli	keeli	NOUN	_	_	8	ccomp	_	Gloss=wing-GEN
