@@ -490,7 +490,7 @@
 2	mali	mali	ADJ	_	_	1	amod	_	Gloss=disabled
 3	lolle	lolle	VERB	_	_	6	parataxis	_	Gloss=fight
 4	karra	karra	NOUN	_	_	6	obj	_	Gloss=property
-5	ifi?aa	ifi?aa	PRON	_	_	6	nmod	_	Gloss=self-DAT
+5	ifi?aa	ifi	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	6	nmod	_	Gloss=self-DAT
 6	calla	calla	VERB	_	_	0	root	_	Gloss=hold-MD-CV
 7	gatisedhe?e	gatisedhe?e	VERB	_	_	6	ccomp	_	Gloss=alone
 
