@@ -238,7 +238,7 @@
 # text_ged = bit'aaluwwa insa?neka kukkutte birri ajajememmanʃanni lamalchikinna
 # text_en = You cut their bridles into pieces completely!
 1	bit'aaluwwa	bit'aaluwwa	NOUN	_	_	3	obj	_	Gloss=bridle-PL
-2	insa?neka	insa?neka	PRON	_	_	1	amod	_	Gloss=3PL-GEN.ABS
+2	insa?neka	insa?ne	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	amod	_	Gloss=3PL-GEN.ABS
 3	kukkutte	kukkutte	VERB	_	Aspect=Perf	0	root	_	Gloss=cut into piece-PFV
 4	birri	birri	ADJ	_	_	3	advmod	_	Gloss=finish-2SG.IPV
 5	ajajememmanʃanni	ajajememmanʃanni	VERB	_	Aspect=Imp	3	advcl	_	Gloss=order-PAS-PFV-PST-?-that
@@ -258,7 +258,7 @@
 # text_ged = huje insa?ne?aa uwwendeett'a birree dan(g)e?e e?yinaa wodda
 # text_en = ‘Having finished their mission, upon their return….’
 1	huje	huje	VERB	_	Aspect=Perf	4	obl	_	Gloss=work-PFV
-2	insa?ne?aa	insa?ne?aa	PRON	_	_	1	amod	_	Gloss=3PL-DAT
+2	insa?ne?aa	insa?ne	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	1	amod	_	Gloss=3PL-DAT
 3	uwwendeett'a	uwwendeett'a	VERB	_	Aspect=Perf	4	acl	_	Gloss=give-PFV-FOC.F
 4	birree	birree	VERB	_	Aspect=Perf	0	root	_	Gloss=finish-PFV
 5	dan(g)e?e	dan(g)e?e	ADV	_	_	4	acl	_	Gloss=come-CV
