@@ -348,7 +348,7 @@
 1	gateeke	gateeke	ADJ	_	_	4	nsubj	_	Gloss=absent.who|Translit=gateeke
 2	sinbirri?aa	sinbirri?aa	NOUN	_	_	1	nmod	_	_
 3	lamalchik	lamalchik	NOUN	_	_	4	nsubj	_	Gloss=rat|Translit=lamalchik
-4	male	male	CONJ	_	_	0	root	_	Gloss=with|Translit=male
+4	male	male	CCONJ	_	_	0	root	_	Gloss=with|Translit=male
 5	koo	koo	PRON	_	_	6	nmod	_	Gloss=you|Translit=koo
 6	lamalcho	lamalcho	NOUN	_	_	4	ccomp	_	Gloss=rooster|Translit=lamalcho
 7	hee	hee	ADV	_	_	6	nmod	_	Gloss=dear|Translit=hee
