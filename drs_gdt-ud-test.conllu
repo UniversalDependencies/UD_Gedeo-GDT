@@ -237,7 +237,7 @@
 # text = bit'aaluwwa insa?neka kukkutte birri ajajememmanʃanni lamalchikinna
 # text_ged = bit'aaluwwa insa?neka kukkutte birri ajajememmanʃanni lamalchikinna
 # text_en = You cut their bridles into pieces completely!
-1	bit'aaluwwa	bit'aaluwwa	NOUN	_	_	3	root	_	Gloss=bridle-PL|Translit=bit'aaluwwa
+1	bit'aaluwwa	bit'aaluwwa	NOUN	_	_	3	obj	_	Gloss=bridle-PL|Translit=bit'aaluwwa
 2	insa?neka	insa?neka	PRON	_	_	1	amod	_	Gloss=3PL-GEN.ABS|Translit=insa?neka
 3	kukkutte	kukkutte	VERB	_	Tense=PFV	0	root	_	Gloss=cut into piece-PFV|Translit=kukkutte
 4	birri	birri	ADJ	_	_	3	advmod	_	Gloss=finish-2SG.IPV|Translit=birri
