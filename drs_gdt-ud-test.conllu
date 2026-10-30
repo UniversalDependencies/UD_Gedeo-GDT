@@ -30,24 +30,29 @@
 3	duulo	duulo	NOUN	_	_	4	nsubj	_	Gloss=expedition|Translit=duulo
 4	fule	fule	VERB	_	_	5	advcl	_	Gloss=go-out|Translit=fule
 5	me?a	me?a	VERB	_	_	0	root	_	Gloss=go|Translit=me?a
-6	te?n	te?n	PART	_	_	5	advmod	_	Gloss=on|Translit=te?n
-7	hedhe	hedhe	VERB	_	_	5	advcl	_	Gloss=exist|Translit=hedhe
-8	lamaalchik	lamaalchik	NOUN	_	_	7	nsubj	_	Gloss=rat|Translit=lamaalchik
-9	futtiyya	futtiyya	ADV	_	_	7	advmod	_	Gloss=arrive-suddenly|Translit=futtiyya
-10	wodda	wodda	ADV	_	_	9	advmod	_	Gloss=moment|Translit=wodda
+6	-	-	PUNCT	_	_	7	punct	_	Gloss=-|Translit=-
+7	te?n	te?n	PART	_	_	5	advmod	_	Gloss=on|Translit=te?n
+8	hedhe	hedhe	VERB	_	_	5	advcl	_	Gloss=exist|Translit=hedhe
+9	lamaalchik	lamaalchik	NOUN	_	_	8	nsubj	_	Gloss=rat|Translit=lamaalchik
+10	futtiyya	futtiyya	ADV	_	_	8	advmod	_	Gloss=arrive-suddenly|Translit=futtiyya
+11	wodda	wodda	ADV	_	_	10	advmod	_	Gloss=moment|Translit=wodda
 
 # sent_id = 5
 # text = lamaalchi isoo “haba martaatte” hiyye qoraammale “duwo marannen” hiyya wodda
 # text_en = The rat asked him, “where they are going? I am going for a military expedition, he replied.
-1	lamaalchi	lamaalchi	NOUN	_	Case=Nom	5	nsubj	_	Gloss=rat|Translit=lamaalchi
-2	isoo	isoo	PRON	_	Case=Abs	5	obj	_	Gloss=3SG.ABS|Translit=isoo
-3	haba	haba	ADV	_	_	4	advmod	_	Gloss=where|Translit=haba
-4	martaatte	martaatte	VERB	_	Tense=IPFV	5	ccomp	_	Gloss=go-2SG.IPFV-INT|Translit=martaatte
-5	qoraammale	qoraammale	VERB	_	Tense=IPFV	8	parataxis	_	Gloss=ask-IPFV-PST|Translit=qoraammale
-6	duwo	duwo	NOUN	_	_	7	obj	_	Gloss=expedition|Translit=duwo
-7	marannen	marannen	VERB	_	Tense=IPFV	8	ccomp	_	Gloss=go-1SG.IPFV-DCL|Translit=marannen
-8	hiyya	hiyya	VERB	_	Tense=IPFV	0	root	_	Gloss=say-IPFV|Translit=hiyya
-9	wodda	wodda	ADV	_	_	8	advmod	_	Gloss=moment|Translit=wodda
+1	lamaalchi	lamaalchi	NOUN	_	Case=Nom	7	nsubj	_	Gloss=rat|Translit=lamaalchi
+2	isoo	isoo	PRON	_	Case=Abs	7	obj	_	Gloss=3SG.ABS|Translit=isoo
+3	“	"	PUNCT	_	_	5	punct	_	Gloss=“|SpaceAfter=No|Translit=“
+4	haba	haba	ADV	_	_	5	advmod	_	Gloss=where|Translit=haba
+5	martaatte	martaatte	VERB	_	Tense=IPFV	7	ccomp	_	Gloss=go-2SG.IPFV-INT|SpaceAfter=No|Translit=martaatte
+6	”	"	PUNCT	_	_	5	punct	_	Gloss=”|Translit=”
+7	qoraammale	qoraammale	VERB	_	Tense=IPFV	12	parataxis	_	Gloss=ask-IPFV-PST|Translit=qoraammale
+8	“	"	PUNCT	_	_	10	punct	_	Gloss=“|SpaceAfter=No|Translit=“
+9	duwo	duwo	NOUN	_	_	10	obj	_	Gloss=expedition|Translit=duwo
+10	marannen	marannen	VERB	_	Tense=IPFV	12	ccomp	_	Gloss=go-1SG.IPFV-DCL|SpaceAfter=No|Translit=marannen
+11	”	"	PUNCT	_	_	10	punct	_	Gloss=”|Translit=”
+12	hiyya	hiyya	VERB	_	Tense=IPFV	0	root	_	Gloss=say-IPFV|Translit=hiyya
+13	wodda	wodda	ADV	_	_	12	advmod	_	Gloss=moment|Translit=wodda
 
 # sent_id = 6
 # text = ille atitt'i mitteten lekka atitt'i mitteten mayik duuldatto
