@@ -16,11 +16,11 @@
 1	bire	bire	NOUN	_	_	2	amod	_	Gloss=ancient|Translit=bire
 2	wodda	wodda	NOUN	_	_	5	obl	_	Gloss=time|Translit=wodda
 3	lukkichchi	lukkichchi	NOUN	_	_	5	nsubj	_	Gloss=cock|Translit=lukkichchi
-4	mitti	mitti	AUX	_	_	3	nummod	_	Gloss=was|Translit=mitti
-5	hedhemma	hedhemma	VERB	_	_	0	root	_	Gloss=one|Translit=hedhemma
-6	summi	summi	NOUN	_	_	8	nmod	_	Gloss=name|Translit=summi
-7	isikinna	isikinna	PRON	_	_	8	amod	_	Gloss=his|Translit=isikinna
-8	agabaasitemman	agabaas-EP-COP-PST-DCL	VERB	_	_	5	ccomp	_	Gloss=was named Agabaas|Translit=agabaasitemman
+4	mitti	mitti	NUM	_	_	3	nummod	_	Gloss=one|Translit=mitti
+5	hedhemma	hedhemma	VERB	_	_	0	root	_	Gloss=was|Translit=hedhemma
+6	summi	summi	NOUN	_	_	8	obl	_	Gloss=name|Translit=summi
+7	isikinna	isikinna	PRON	_	_	6	nmod	_	Gloss=his|Translit=isikinna
+8	agabaasitemman	agabaas-EP-COP-PST-DCL	VERB	_	_	3	acl	_	Gloss=was named Agabaas|Translit=agabaasitemman
 
 # sent_id = 4
 # text = mitte barra duulo fule me?a-te?n hedhe lamaalchik futtiyya wodda
@@ -407,7 +407,7 @@
 4	lugi	lugi	ADJ	_	_	5	amod	_	Gloss=disfigure-ing|Translit=lugi
 5	asse	asse	VERB	_	_	0	root	_	Gloss=do-3SG.M.PFV|Translit=asse
 6	me?abaaʃʃa	me?abaaʃʃa	VERB	_	_	5	parataxis	_	Gloss=fly-IPFV-NEG-that|Translit=me?abaaʃʃa
-7	assineechchinni	assineechchinni	AUX	_	_	6	aux	_	Gloss=do-EP-3PL-PFV-FOC|Translit=assineechchinni
+7	assineechchinni	assineechchinni	VERB	_	_	6	compound	_	Gloss=do-EP-3PL-PFV-FOC|Translit=assineechchinni
 
 # sent_id = 40
 # text = aan(g)e dan(g)aa wodda aan(g)-eennett'a egennannoʃʃa du?lino hiyyati
