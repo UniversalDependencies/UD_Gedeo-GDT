@@ -59,10 +59,10 @@
 # text = ille atitt'i mitteten lekka atitt'i mitteten mayik duuldatto
 # text_en = Your eye is one, your leg is one with what will you fight?
 1	ille	ille	NOUN	_	_	3	nsubj	_	Gloss=eye
-2	atitt'i	atitt'i	PRON	_	_	1	nmod	_	Gloss=2SG-GEN
+2	atitt'i	ati	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	nmod	_	Gloss=2SG-GEN
 3	mitteten	mitteten	NUM	_	NumType=Card	8	ccomp	_	Gloss=one
 4	lekka	lekka	NOUN	_	_	6	nsubj	_	Gloss=leg
-5	atitt'i	atitt'i	PRON	_	_	4	nmod	_	Gloss=2SG-GEN
+5	atitt'i	ati	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Gloss=2SG-GEN
 6	mitteten	mitteten	NUM	_	NumType=Card	8	ccomp	_	Gloss=one
 7	mayik	mayik	PRON	_	_	8	obl	_	Gloss=what
 8	duuldatto	duuldatto	VERB	_	_	0	root	_	Gloss=fight-2SG.IPFV-INT
@@ -135,7 +135,7 @@
 # text_ged = ille atitt'i mitteten
 # text_en = Your eye is one.
 1	ille	ille	NOUN	_	Case=Nom	3	nsubj	_	Gloss=eye
-2	atitt'i	atitt'i	PRON	_	Case=Gen	1	nmod	_	Gloss=2SG-GEN
+2	atitt'i	ati	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	nmod	_	Gloss=2SG-GEN
 3	mitteten	mitteten	VERB	_	_	0	root	_	Gloss=one-COP.F
 
 # sent_id = 14
@@ -143,7 +143,7 @@
 # text_ged = lekka atitt'i mitteten
 # text_en = Your leg is one.
 1	lekka	lekka	NOUN	_	Case=Nom	3	nsubj	_	Gloss=leg
-2	atitt'i	atitt'i	PRON	_	Case=Gen	1	nmod	_	Gloss=2SG-GEN
+2	atitt'i	ati	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	nmod	_	Gloss=2SG-GEN
 3	mitteten	mitteten	VERB	_	_	0	root	_	Gloss=one-COP.F
 
 # sent_id = 15
