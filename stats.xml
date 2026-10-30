@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>47</sentences><tokens>269</tokens><words>269</words><fused>0</fused></test>
   </size>
-  <lemmas unique="204" /><!-- ati, wodda, isi, ", ani, mitteten, giddo, hiyya, hiyye, iitta, keeli, lamaalchi, lukkichchi, malik, mitte -->
+  <lemmas unique="203" /><!-- ati, wodda, isi, ani, ", mitteten, giddo, hiyya, hiyye, iitta, keeli, lamaalchi, lukkichchi, malik, mitte -->
   <forms unique="209" /><!-- wodda, ati, atitt'i, mitteten, ani, giddo, hiyya, hiyye, iitta, keeli, lamaalchi, lukkichchi, malik, mitte, bire -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -24,17 +24,18 @@
     <tag name="NOUN">67</tag><!-- keeli, lamaalchi, lukkichchi, duulo, ille, lekka, t'ingo, wodda, agabaasinni, agabaassi -->
     <tag name="NUM">7</tag><!-- mitte, mitteten, lamik, mitti -->
     <tag name="PART">3</tag><!-- hee, te?n -->
-    <tag name="PRON">32</tag><!-- ati, isi, ani, kuni, no?o, ane?n, ha?noo, ifi?aa, insa?ne?aa, insa?neka -->
+    <tag name="PRON">32</tag><!-- ati, isi, ani, kuni, no?o, ha?noo, ifi?aa, insa?ne?aa, insa?neka, isinna -->
     <tag name="PROPN">1</tag><!-- agabaasi -->
     <tag name="PUNCT">5</tag><!-- ", - -->
     <tag name="VERB">111</tag><!-- hiyya, hiyye, duuldatto, ganen, hite, hiyye?e, k'urubbi, martaatte, mena?ni, mene -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="19">
+  <feats unique="20">
     <feat name="Aspect" value="Imp" upos="VERB">19</feat><!-- k'urubbi, martaatte, mena?ni, ajajememmanʃanni, bobbaaneen, dagammaka, dhakk'anbaaʃʃa, duulannon, duuldatto, e?yinaa -->
     <feat name="Aspect" value="Perf" upos="VERB">22</feat><!-- hiyye?e, asse?e, bireen, birree, duuldineeka, e?yineett'i, enk'inee, fulchine, futtine, futtineett'i -->
     <feat name="Case" value="Abs" upos="PRON">2</feat><!-- isoo -->
     <feat name="Case" value="Com" upos="NOUN">1</feat><!-- agabaasinni -->
+    <feat name="Case" value="Dat" upos="PRON">1</feat><!-- ane?n -->
     <feat name="Case" value="Gen" upos="NOUN,PRON">7</feat><!-- atitt'i, anik, duulanno-n, isikinna -->
     <feat name="Case" value="Loc" upos="NOUN">1</feat><!-- duuloke -->
     <feat name="Case" value="Nom" upos="NOUN,PRON">7</feat><!-- lamaalchi, isi, ille, lekka -->
@@ -42,13 +43,13 @@
     <feat name="Mood" value="Ind" upos="VERB">2</feat><!-- duulannon, duuldineeka -->
     <feat name="Mood" value="Int" upos="VERB">1</feat><!-- duuldatto -->
     <feat name="Number" value="Plur" upos="VERB">3</feat><!-- duuldineeka, futtineett'i, ke?ne?e -->
-    <feat name="Number" value="Sing" upos="PRON,VERB">20</feat><!-- ati, atitt'i, ani, isi, isoo, anik, duulannon, duuldatto, isikinna, isoonna -->
+    <feat name="Number" value="Sing" upos="PRON,VERB">21</feat><!-- ati, atitt'i, ani, isi, isoo, ane?n, anik, duulannon, duuldatto, isikinna -->
     <feat name="NumType" value="Card" upos="NUM">6</feat><!-- mitte, mitteten, lamik -->
-    <feat name="Person" value="1" upos="PRON,VERB">5</feat><!-- ani, anik, duulannon -->
+    <feat name="Person" value="1" upos="PRON,VERB">6</feat><!-- ani, ane?n, anik, duulannon -->
     <feat name="Person" value="2" upos="PRON,VERB">10</feat><!-- ati, atitt'i, duuldatto, duuldineeka -->
     <feat name="Person" value="3" upos="PRON">6</feat><!-- isi, isoo, isikinna, isoonna -->
     <feat name="PronType" value="Int" upos="PRON">1</feat><!-- mayik -->
-    <feat name="PronType" value="Prs" upos="PRON">20</feat><!-- ati, atitt'i, ani, isi, isoo, anik, ha?noo, isikinna, isinna, isoonna -->
+    <feat name="PronType" value="Prs" upos="PRON">21</feat><!-- ati, atitt'i, ani, isi, isoo, ane?n, anik, ha?noo, isikinna, isinna -->
     <feat name="VerbForm" value="Conv" upos="VERB">2</feat><!-- futtineett'i, mena?ni -->
   </feats>
   <!-- Statistics of universal dependency relations. -->

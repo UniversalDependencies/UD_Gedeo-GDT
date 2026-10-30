@@ -300,7 +300,7 @@
 # text = ane?n waali hiyye
 # text_ged = ane?n waali hiyye
 # text_en = “leave it for me!” replied the eagle.
-1	ane?n	ane?n	PRON	_	_	2	iobj	_	Gloss=for-me
+1	ane?n	ani	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	Gloss=for-me
 2	waali	waali	VERB	_	_	0	root	_	Gloss=leave-2SG.IMPV
 3	hiyye	hiyye	VERB	_	_	2	parataxis	_	Gloss=say-3SG.M-PFV
 
