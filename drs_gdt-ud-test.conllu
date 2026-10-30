@@ -19,7 +19,7 @@
 4	mitti	mitti	NUM	_	_	3	nummod	_	Gloss=one
 5	hedhemma	hedhemma	VERB	_	_	0	root	_	Gloss=was
 6	summi	summi	NOUN	_	_	8	obl	_	Gloss=name
-7	isikinna	isikinna	PRON	_	_	6	nmod	_	Gloss=his
+7	isikinna	isi	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	Gloss=his
 8	agabaasitemman	agabaas-EP-COP-PST-DCL	VERB	_	_	3	acl	_	Gloss=was named Agabaas
 
 # sent_id = 4
