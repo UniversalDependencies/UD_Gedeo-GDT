@@ -83,7 +83,7 @@
 # text = ati kuni heenochchi malik duulideteka ani fa?i waalabe?no?n hiyye
 # text_en = ‘You who is disable go out for military expedition, I would not abandon,’ said
 1	ati	ati	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Gloss=2SG
-2	kuni	kuni	PRON	_	_	3	nmod	_	Gloss=this
+2	kuni	kuni	PRON	_	PronType=Dem	3	nmod	_	Gloss=this
 3	heenochchi	heenochchi	ADJ	_	_	1	amod	_	Gloss=disabled
 4	malik	malik	NOUN	_	_	5	obl	_	Gloss=ingenuity
 5	duulideteka	duulideteka	VERB	_	_	9	advcl	_	Gloss=expedite-EP-2SG
@@ -217,7 +217,7 @@
 5	uurrite	uurrite	VERB	_	Aspect=Perf	6	advcl	_	Gloss=stand-EP-3SG-PFV
 6	iddi	iddi	VERB	_	_	0	root	_	Gloss=sting-2SG.IPV
 7	ati	ati	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Gloss=2SG
-8	konne?e	konne?e	PRON	_	_	9	det	_	Gloss=those
+8	konne?e	kuni	PRON	_	PronType=Dem	9	det	_	Gloss=those
 9	manna	manna	NOUN	_	_	10	nsubj	_	Gloss=people
 10	dagammaka	dagammaka	VERB	_	Aspect=Imp	6	ccomp	_	Gloss=come
 
@@ -277,7 +277,7 @@
 # text_ged = abboo kuni manni eeganni iitta hujeeki dhudhdhuufi
 # text_en = Oh, the snake which killed those people like that…
 1	abboo	abboo	INTJ	_	_	6	discourse	_	Gloss=oh
-2	kuni	kuni	PRON	_	_	3	det	_	Gloss=those
+2	kuni	kuni	PRON	_	PronType=Dem	3	det	_	Gloss=those
 3	manni	manni	NOUN	_	_	6	nsubj	_	Gloss=people
 4	eeganni	eeganni	NOUN	_	_	5	amod	_	Gloss=well
 5	iitta	iitta	VERB	_	_	6	advcl	_	Gloss=killed
@@ -332,7 +332,7 @@
 # text = kinni kuniichchi iitta asseek no?oo biruuni hiyyaatt'e agabaassi
 # text_ged = kinni kuniichchi iitta asseek no?oo biruuni hiyyaatt'e agabaassi
 # text_en = ‘Who did this, he won’t leave us alone. Agabaas said
-1	kinni	kinni	DET	_	_	4	obj	_	Gloss=this
+1	kinni	kinni	DET	_	PronType=Dem	4	obj	_	Gloss=this
 2	kuniichchi	kuniichchi	ADJ	_	_	4	nsubj	_	Gloss=this-SGV
 3	iitta	iitta	NOUN	_	_	2	obl	_	Gloss=like-this
 4	asseek	asseek	VERB	_	_	7	ccomp	_	Gloss=do-PFV-who
@@ -347,10 +347,10 @@
 # text = gateeke sinbirri?aa lamalchik male koo lamalcho hee
 1	gateeke	gateeke	ADJ	_	_	4	obl	_	Gloss=absent.who
 2	sinbirri?aa	sinbirri?aa	NOUN	_	_	1	obl	_	Gloss=eagle
-3	lamalchik	lamalchik	NOUN	_	_	4	nsubj	_	Gloss=rat
-4	male	male	CCONJ	_	_	0	root	_	Gloss=with
-5	koo	koo	PRON	_	_	6	nmod	_	Gloss=you
-6	lamalcho	lamalcho	NOUN	_	_	4	ccomp	_	Gloss=rooster
+3	lamalchik	lamalchik	NOUN	_	_	4	obj	_	Gloss=rat
+4	male	male	VERB	_	_	0	root	_	Gloss=with
+5	koo	koo	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nmod	_	Gloss=you
+6	lamalcho	lamalcho	NOUN	_	_	4	nsubj	_	Gloss=rooster
 7	hee	hee	PART	_	_	6	nmod	_	Gloss=dear
 
 # sent_id = 35
