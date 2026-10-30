@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>47</sentences><tokens>269</tokens><words>269</words><fused>0</fused></test>
   </size>
-  <lemmas unique="207" /><!-- ati, wodda, ", isi, mitteten, ani, giddo, hiyya, hiyye, iitta, keeli, lamaalchi, lukkichchi, malik, mitte -->
+  <lemmas unique="206" /><!-- ati, wodda, isi, ", mitteten, ani, giddo, hiyya, hiyye, iitta, keeli, lamaalchi, lukkichchi, malik, mitte -->
   <forms unique="209" /><!-- wodda, ati, atitt'i, mitteten, ani, giddo, hiyya, hiyye, iitta, keeli, lamaalchi, lukkichchi, malik, mitte, bire -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -38,16 +38,16 @@
     <feat name="Case" value="Gen" upos="NOUN,PRON">5</feat><!-- atitt'i, duulanno-n -->
     <feat name="Case" value="Loc" upos="NOUN">1</feat><!-- duuloke -->
     <feat name="Case" value="Nom" upos="NOUN,PRON">7</feat><!-- lamaalchi, isi, ille, lekka -->
-    <feat name="Gender" value="Masc" upos="PRON">2</feat><!-- isi -->
+    <feat name="Gender" value="Masc" upos="PRON">3</feat><!-- isi, isoonna -->
     <feat name="Mood" value="Ind" upos="VERB">2</feat><!-- duulannon, duuldineeka -->
     <feat name="Mood" value="Int" upos="VERB">1</feat><!-- duuldatto -->
     <feat name="Number" value="Plur" upos="VERB">3</feat><!-- duuldineeka, futtineett'i, ke?ne?e -->
-    <feat name="Number" value="Sing" upos="PRON,VERB">17</feat><!-- ati, atitt'i, ani, isi, isoo, duulannon, duuldatto -->
+    <feat name="Number" value="Sing" upos="PRON,VERB">18</feat><!-- ati, atitt'i, ani, isi, isoo, duulannon, duuldatto, isoonna -->
     <feat name="NumType" value="Card" upos="NUM">6</feat><!-- mitte, mitteten, lamik -->
     <feat name="Person" value="1" upos="PRON,VERB">4</feat><!-- ani, duulannon -->
     <feat name="Person" value="2" upos="PRON,VERB">10</feat><!-- ati, atitt'i, duuldatto, duuldineeka -->
-    <feat name="Person" value="3" upos="PRON">4</feat><!-- isi, isoo -->
-    <feat name="PronType" value="Prs" upos="PRON">17</feat><!-- ati, atitt'i, ani, isi, isoo, ha?noo, isinna -->
+    <feat name="Person" value="3" upos="PRON">5</feat><!-- isi, isoo, isoonna -->
+    <feat name="PronType" value="Prs" upos="PRON">18</feat><!-- ati, atitt'i, ani, isi, isoo, ha?noo, isinna, isoonna -->
     <feat name="VerbForm" value="Conv" upos="VERB">2</feat><!-- futtineett'i, mena?ni -->
   </feats>
   <!-- Statistics of universal dependency relations. -->

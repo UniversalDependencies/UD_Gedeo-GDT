@@ -180,7 +180,7 @@
 # text_ged = isoonna lepp'ati shoolik duulokee ke?ne?e
 # text_en = He also became a member of the expedition and four of them rose up for the expedition.
 # text = isoonna lepp'ati shoolik duulokee ke?ne?e
-1	isoonna	isoonna	PRON	_	_	2	nsubj	_	Gloss=3SG.M-also
+1	isoonna	isi	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG.M-also
 2	lepp'ati	lepp'ati	NOUN	_	_	5	parataxis	_	Gloss=expedition-member-GEN.F
 3	shoolik	shoolik	NOUN	_	_	5	nsubj	_	Gloss=member
 4	duulokee	duulokee	NOUN	_	_	5	ccomp	_	Gloss=expedition
