@@ -18,17 +18,17 @@
     <tag name="ADJ">15</tag><!-- barra, birri, dalla?ake?n, dan(g)aa, du?lino, edii?n, fadhadik, gateeke, heenochchi, hujeeki -->
     <tag name="ADP">6</tag><!-- giddo, assa, hana, iitta, okkone?n -->
     <tag name="ADV">16</tag><!-- wodda, haba, hitta, iima, malik, dan(g)e?e, futtiyya, giddo, hee, hinaa -->
-    <tag name="AUX">2</tag><!-- assineechchinni, mitti -->
     <tag name="CCONJ">1</tag><!-- male -->
     <tag name="DET">1</tag><!-- kinni -->
-    <tag name="NOUN">71</tag><!-- wodda, keeli, lamaalchi, lukkichchi, duulo, ille, lekka, t'ingo, abboo, agabaasinni -->
-    <tag name="NUM">6</tag><!-- mitte, mitteten, lamik -->
+    <tag name="INTJ">1</tag><!-- abboo -->
+    <tag name="NOUN">70</tag><!-- wodda, keeli, lamaalchi, lukkichchi, duulo, ille, lekka, t'ingo, agabaasinni, agabaassi -->
+    <tag name="NUM">7</tag><!-- mitte, mitteten, lamik, mitti -->
     <tag name="PART">2</tag><!-- hee, te?n -->
     <tag name="PRON">33</tag><!-- ati, atitt'i, ani, isi, isoo, kuni, no?o, ane?n, anik, ha?noo -->
     <tag name="PROPN">1</tag><!-- agabaasi -->
     <tag name="PUNCT">5</tag><!-- ", - -->
     <tag name="SCONJ">1</tag><!-- woddi -->
-    <tag name="VERB">109</tag><!-- hiyya, hiyye, duuldatto, ganen, hite, hiyye?e, k'urubbi, martaatte, mena?ni, mene -->
+    <tag name="VERB">110</tag><!-- hiyya, hiyye, duuldatto, ganen, hite, hiyye?e, k'urubbi, martaatte, mena?ni, mene -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="16">
@@ -50,23 +50,22 @@
     <feat name="VerbForm" value="Conv" upos="VERB">2</feat><!-- futtineett'i, mena?ni -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="19">
-    <dep name="acl">19</dep>
+  <deps unique="18">
+    <dep name="acl">20</dep>
     <dep name="advcl">9</dep>
     <dep name="advmod">34</dep>
-    <dep name="amod">11</dep>
-    <dep name="aux">1</dep>
-    <dep name="case">2</dep>
-    <dep name="ccomp">28</dep>
-    <dep name="compound">2</dep>
-    <dep name="det">3</dep>
+    <dep name="amod">10</dep>
+    <dep name="case">3</dep>
+    <dep name="ccomp">27</dep>
+    <dep name="compound">3</dep>
+    <dep name="det">2</dep>
+    <dep name="discourse">1</dep>
     <dep name="iobj">1</dep>
-    <dep name="mark">1</dep>
     <dep name="nmod">17</dep>
     <dep name="nsubj">39</dep>
     <dep name="nummod">2</dep>
     <dep name="obj">16</dep>
-    <dep name="obl">16</dep>
+    <dep name="obl">17</dep>
     <dep name="parataxis">16</dep>
     <dep name="punct">5</dep>
     <dep name="root">47</dep>
