@@ -276,7 +276,7 @@
 # text = abboo kuni manni eeganni iitta hujeeki dhudhdhuufi
 # text_ged = abboo kuni manni eeganni iitta hujeeki dhudhdhuufi
 # text_en = Oh, the snake which killed those people like that…
-1	abboo	abboo	NOUN	_	_	6	mark	_	Gloss=oh|Translit=abboo
+1	abboo	abboo	INTJ	_	_	6	discourse	_	Gloss=oh|Translit=abboo
 2	kuni	kuni	PRON	_	_	3	det	_	Gloss=those|Translit=kuni
 3	manni	manni	NOUN	_	_	6	nsubj	_	Gloss=people|Translit=manni
 4	eeganni	eeganni	NOUN	_	_	5	amod	_	Gloss=well|Translit=eeganni
