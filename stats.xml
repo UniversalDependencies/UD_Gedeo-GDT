@@ -31,9 +31,9 @@
     <tag name="VERB">109</tag><!-- hiyya, hiyye, duuldatto, ganen, hite, hiyye?e, k'urubbi, martaatte, mena?ni, mene -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="17">
+  <feats unique="16">
     <feat name="Aspect" value="Imp" upos="VERB">19</feat><!-- k'urubbi, martaatte, mena?ni, ajajememmanʃanni, bobbaaneen, dagammaka, dhakk'anbaaʃʃa, duulannon, duuldatto, e?yinaa -->
-    <feat name="Aspect" value="Perf" upos="VERB">14</feat><!-- hiyye?e, asse?e, bireen, birree, duuldineeka, futtine, futtineett'i, hiissa, huje, ke?ne?e -->
+    <feat name="Aspect" value="Perf" upos="VERB">22</feat><!-- hiyye?e, asse?e, bireen, birree, duuldineeka, e?yineett'i, enk'inee, fulchine, futtine, futtineett'i -->
     <feat name="Case" value="Abs" upos="PRON">1</feat><!-- isoo -->
     <feat name="Case" value="Com" upos="NOUN">1</feat><!-- agabaasinni -->
     <feat name="Case" value="Gen" upos="NOUN,PRON">3</feat><!-- atitt'i, duulanno-n -->
@@ -47,7 +47,6 @@
     <feat name="Person" value="1" upos="VERB">1</feat><!-- duulannon -->
     <feat name="Person" value="2" upos="VERB">2</feat><!-- duuldatto, duuldineeka -->
     <feat name="PronType" value="Prs" upos="PRON">2</feat><!-- ha?noo, isinna -->
-    <feat name="Tense" value="PFT" upos="VERB">8</feat><!-- e?yineett'i, enk'inee, fulchine, gennee, ke?nee, mene, meneett'i, olfine?e -->
     <feat name="VerbForm" value="Conv" upos="VERB">2</feat><!-- futtineett'i, mena?ni -->
   </feats>
   <!-- Statistics of universal dependency relations. -->

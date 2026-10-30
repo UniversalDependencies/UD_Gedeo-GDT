@@ -190,21 +190,21 @@
 # text = mene meneett'i gennee duuliinba
 # text_ged = mene meneett'i gennee duuliinba
 # text_en = After they traveled long a journey, they arrived at the battlefield.
-1	mene	mene	VERB	_	Tense=PFT	3	parataxis	_	Gloss=go-3PL-PFT|Translit=mene
-2	meneett'i	meneett'i	VERB	_	Tense=PFT	1	advmod	_	Gloss=go-3PL-PFT-?|Translit=meneett'i
-3	gennee	gennee	VERB	_	Tense=PFT	0	root	_	Gloss=arrive-3PL-PFT|Translit=gennee
+1	mene	mene	VERB	_	Aspect=Perf	3	parataxis	_	Gloss=go-3PL-PFT|Translit=mene
+2	meneett'i	meneett'i	VERB	_	Aspect=Perf	1	advmod	_	Gloss=go-3PL-PFT-?|Translit=meneett'i
+3	gennee	gennee	VERB	_	Aspect=Perf	0	root	_	Gloss=arrive-3PL-PFT|Translit=gennee
 4	duuliinba	duuliinba	NOUN	_	_	3	obj	_	Gloss=expedition-at|Translit=duuliinba
 
 # sent_id = 21
 # text = enk'inee e?yineett'i hore olfine?e fulchine ke?nee
 # text_ged = enk'inee e?yineett'i hore olfine?e fulchine ke?nee
 # text_en = Having penetrated through, they took away a herd of cattle.
-1	enk'inee	enk'inee	VERB	_	Tense=PFT	2	acl	_	Gloss=break-EP-2PL.PFV|Translit=enk'inee
-2	e?yineett'i	e?yineett'i	VERB	_	Tense=PFT	4	acl	_	Gloss=enter-EP-3PL-?|Translit=e?yineett'i
+1	enk'inee	enk'inee	VERB	_	Aspect=Perf	2	acl	_	Gloss=break-EP-2PL.PFV|Translit=enk'inee
+2	e?yineett'i	e?yineett'i	VERB	_	Aspect=Perf	4	acl	_	Gloss=enter-EP-3PL-?|Translit=e?yineett'i
 3	hore	hore	NOUN	_	_	4	obl	_	Gloss=herd|Translit=hore
-4	olfine?e	olfine?e	VERB	_	Tense=PFT	0	root	_	Gloss=take-away-3PL-PFV|Translit=olfine?e
-5	fulchine	fulchine	VERB	_	Tense=PFT	4	advmod	_	Gloss=they-take-away|Translit=fulchine
-6	ke?nee	ke?nee	VERB	_	Tense=PFT	4	advmod	_	Gloss=they-take-away|Translit=ke?nee
+4	olfine?e	olfine?e	VERB	_	Aspect=Perf	0	root	_	Gloss=take-away-3PL-PFV|Translit=olfine?e
+5	fulchine	fulchine	VERB	_	Aspect=Perf	4	advmod	_	Gloss=they-take-away|Translit=fulchine
+6	ke?nee	ke?nee	VERB	_	Aspect=Perf	4	advmod	_	Gloss=they-take-away|Translit=ke?nee
 
 # sent_id = 22
 # text = ati woldonni jabaken dalla?ake?n uurrite iddi ati konne?e manna dagammaka
