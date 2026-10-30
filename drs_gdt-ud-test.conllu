@@ -448,7 +448,7 @@
 # text_ged = kinjo okkone?n iima satt'e?e uurriyyati
 # text_en = Stand on that stone!
 1	kinjo	kinjo	NOUN	_	_	5	ccomp	_	Gloss=stone|Translit=kinjo
-2	okkone?n	okkone?n	ADP	_	_	1	det	_	Gloss=on|Translit=okkone?n
+2	okkone?n	okkone?n	ADP	_	_	1	case	_	Gloss=on|Translit=okkone?n
 3	iima	iima	ADV	_	_	1	nmod	_	Gloss=that|Translit=iima
 4	satt'e?e	satt'e?e	VERB	_	_	5	advmod	_	Gloss=rise-up-3SG.F-CV|Translit=satt'e?e
 5	uurriyyati	uurriyyati	VERB	_	_	0	root	_	Gloss=stand-3SG.F-IPV|Translit=uurriyyati
