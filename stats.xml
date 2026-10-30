@@ -41,11 +41,11 @@
     <feat name="Mood" value="Ind" upos="VERB">2</feat><!-- duulannon, duuldineeka -->
     <feat name="Mood" value="Int" upos="VERB">1</feat><!-- duuldatto -->
     <feat name="Number" value="Plur" upos="VERB">3</feat><!-- duuldineeka, futtineett'i, ke?ne?e -->
-    <feat name="Number" value="Sing" upos="PRON,VERB">10</feat><!-- ati, atitt'i, duulannon, duuldatto -->
+    <feat name="Number" value="Sing" upos="PRON,VERB">13</feat><!-- ati, atitt'i, ani, duulannon, duuldatto -->
     <feat name="NumType" value="Card" upos="NUM">6</feat><!-- mitte, mitteten, lamik -->
-    <feat name="Person" value="1" upos="VERB">1</feat><!-- duulannon -->
+    <feat name="Person" value="1" upos="PRON,VERB">4</feat><!-- ani, duulannon -->
     <feat name="Person" value="2" upos="PRON,VERB">10</feat><!-- ati, atitt'i, duuldatto, duuldineeka -->
-    <feat name="PronType" value="Prs" upos="PRON">10</feat><!-- ati, atitt'i, ha?noo, isinna -->
+    <feat name="PronType" value="Prs" upos="PRON">13</feat><!-- ati, atitt'i, ani, ha?noo, isinna -->
     <feat name="VerbForm" value="Conv" upos="VERB">2</feat><!-- futtineett'i, mena?ni -->
   </feats>
   <!-- Statistics of universal dependency relations. -->

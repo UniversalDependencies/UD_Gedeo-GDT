@@ -87,7 +87,7 @@
 3	heenochchi	heenochchi	ADJ	_	_	1	amod	_	Gloss=disabled
 4	malik	malik	NOUN	_	_	5	obl	_	Gloss=ingenuity
 5	duulideteka	duulideteka	VERB	_	_	9	advcl	_	Gloss=expedite-EP-2SG
-6	ani	ani	PRON	_	_	8	nsubj	_	Gloss=1SG
+6	ani	ani	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=1SG
 7	fa?i	fa?i	NOUN	_	_	6	nmod	_	Gloss=self
 8	waalabe?no?n	waalabe?no?n	VERB	_	_	9	ccomp	_	Gloss=abandon-1SG.IPFV.NEG-DCL
 9	hiyye	hiyye	VERB	_	_	0	root	_	Gloss=say-PFV
@@ -357,7 +357,7 @@
 # text = ani boojjo?wenne hite
 # text_ged = ani boojjo?wenne hite
 # text_en = Tell the eagle I freeze.
-1	ani	ani	PRON	_	_	2	nsubj	_	Gloss=1SG.NOM
+1	ani	ani	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=1SG.NOM
 2	boojjo?wenne	boojjo?w-enne	VERB	_	_	0	root	_	Gloss=cold-1SG.PFV
 3	hite	hite	VERB	_	_	2	parataxis	_	Gloss=say-3SG.F-PFV
 
@@ -365,7 +365,7 @@
 # text_ged = rok’oonsi amo keeli giddo hiyyaani
 # text_en = It is shivering me, let me get inside your wings.
 # text = ani boojjo?wenne hite rok’oonsi amo keeli giddo hiyyaani
-1	ani	ani	PRON	_	_	3	nsubj	_	Gloss=1SG.NOM
+1	ani	ani	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=1SG.NOM
 2	boojjo?wenne	boojjo?wenne	VERB	_	_	3	ccomp	_	Gloss=cold-1SG.PFV
 3	hite	hite	VERB	_	_	0	root	_	Gloss=say-3SG.F-PFV
 4	rok’oonsi	rok’oonsi	VERB	_	_	8	acl	_	Gloss=shiver-CUAS-ing
