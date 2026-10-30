@@ -334,10 +334,10 @@
 # text_en = ‘Who did this, he won’t leave us alone. Agabaas said
 1	kinni	kinni	DET	_	_	4	obj	_	Gloss=this
 2	kuniichchi	kuniichchi	ADJ	_	_	4	nsubj	_	Gloss=this-SGV
-3	iitta	iitta	NOUN	_	_	2	amod	_	Gloss=like-this
-4	asseek	asseek	VERB	_	_	7	acl	_	Gloss=do-PFV-who
-5	no?oo	no?oo	PRON	_	_	7	nsubj	_	Gloss=1SG.ABS
-6	biruuni	biruuni	VERB	_	_	7	ccomp	_	Gloss=finish-1SG.IPFV
+3	iitta	iitta	NOUN	_	_	2	obl	_	Gloss=like-this
+4	asseek	asseek	VERB	_	_	7	ccomp	_	Gloss=do-PFV-who
+5	no?oo	no?oo	PRON	_	_	6	obj	_	Gloss=1SG.ABS
+6	biruuni	biruuni	VERB	_	_	4	conj	_	Gloss=finish-1SG.IPFV
 7	hiyyaatt'e	hiyyaatt'e	VERB	_	_	0	root	_	Gloss=say-2PL.IPFV
 8	agabaassi	agabaassi	NOUN	_	_	7	nsubj	_	Gloss=Agabaas
 
@@ -345,13 +345,13 @@
 # text_ged = gateeke sinbirri?aa lamalchik male koo lamaalcho hee
 # text_en = In the eagle’s absentia, the roaster advised the rat as saying.
 # text = gateeke sinbirri?aa lamalchik male koo lamalcho hee
-1	gateeke	gateeke	ADJ	_	_	4	nsubj	_	Gloss=absent.who
-2	sinbirri?aa	sinbirri?aa	NOUN	_	_	1	nmod	_	_
+1	gateeke	gateeke	ADJ	_	_	4	obl	_	Gloss=absent.who
+2	sinbirri?aa	sinbirri?aa	NOUN	_	_	1	obl	_	Gloss=eagle
 3	lamalchik	lamalchik	NOUN	_	_	4	nsubj	_	Gloss=rat
 4	male	male	CCONJ	_	_	0	root	_	Gloss=with
 5	koo	koo	PRON	_	_	6	nmod	_	Gloss=you
 6	lamalcho	lamalcho	NOUN	_	_	4	ccomp	_	Gloss=rooster
-7	hee	hee	ADV	_	_	6	nmod	_	Gloss=dear
+7	hee	hee	PART	_	_	6	nmod	_	Gloss=dear
 
 # sent_id = 35
 # text = ani boojjo?wenne hite
