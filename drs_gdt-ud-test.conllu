@@ -124,7 +124,7 @@
 # text = duuloke maraannen isi edii?n me?a?neen
 # text_ged = duuloke maraannen isi edii?n me?a?neen
 # text_en = I am going to military expedition, he replied going on the front.
-1	duuloke	duuloke	NOUN	_	Case=LOC	2	obj	_	Gloss=expedition-COP.F|Translit=duuloke
+1	duuloke	duuloke	NOUN	_	Case=Loc	2	obj	_	Gloss=expedition-COP.F|Translit=duuloke
 2	maraannen	maraannen	VERB	_	Aspect=Imp	5	ccomp	_	Gloss=go-1SG.IPFV-DCL|Translit=maraannen
 3	isi	isi	PRON	_	_	5	nsubj	_	Gloss=he|Translit=isi
 4	edii?n	edii?n	ADJ	_	_	5	ccomp	_	Gloss=front|Translit=edii?n

@@ -37,7 +37,7 @@
     <feat name="Case" value="Abs" upos="PRON">1</feat><!-- isoo -->
     <feat name="Case" value="Com" upos="NOUN">1</feat><!-- agabaasinni -->
     <feat name="Case" value="Gen" upos="NOUN,PRON">3</feat><!-- atitt'i, duulanno-n -->
-    <feat name="Case" value="LOC" upos="NOUN">1</feat><!-- duuloke -->
+    <feat name="Case" value="Loc" upos="NOUN">1</feat><!-- duuloke -->
     <feat name="Case" value="Nom" upos="NOUN">5</feat><!-- lamaalchi, ille, lekka -->
     <feat name="Mood" value="Ind" upos="VERB">2</feat><!-- duulannon, duuldineeka -->
     <feat name="Mood" value="Int" upos="VERB">1</feat><!-- duuldatto -->
