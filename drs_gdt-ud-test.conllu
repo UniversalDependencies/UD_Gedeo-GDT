@@ -82,7 +82,7 @@
 # sent_id = 8
 # text = ati kuni heenochchi malik duulideteka ani fa?i waalabe?no?n hiyye
 # text_en = ‘You who is disable go out for military expedition, I would not abandon,’ said
-1	ati	ati	PRON	_	_	5	nsubj	_	Gloss=2SG
+1	ati	ati	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Gloss=2SG
 2	kuni	kuni	PRON	_	_	3	nmod	_	Gloss=this
 3	heenochchi	heenochchi	ADJ	_	_	1	amod	_	Gloss=disabled
 4	malik	malik	NOUN	_	_	5	obl	_	Gloss=ingenuity
@@ -210,13 +210,13 @@
 # text = ati woldonni jabaken dalla?ake?n uurrite iddi ati konne?e manna dagammaka
 # text_ged = ati woldonni jabaken dalla?ake?n uurrite iddi ati konne?e manna dagammaka
 # text_en = You evident you are stronger, you sting those people who come to us standing at the door.
-1	ati	ati	PRON	_	_	3	nsubj	_	Gloss=2SG.M
+1	ati	ati	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=2SG.M
 2	woldonni	woldonni	NOUN	_	_	3	obj	_	Gloss=past-FOC
 3	jabaken	jabaken	ADJ	_	_	6	acl	_	Gloss=strong-COP.M
 4	dalla?ake?n	dalla?ake?n	ADJ	_	_	5	obl	_	Gloss=door-at
 5	uurrite	uurrite	VERB	_	Aspect=Perf	6	ccomp	_	Gloss=stand-EP-3SG-PFV
 6	iddi	iddi	PRON	_	_	0	root	_	Gloss=sting-2SG.IPV
-7	ati	ati	PRON	_	_	6	nsubj	_	Gloss=2SG
+7	ati	ati	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Gloss=2SG
 8	konne?e	konne?e	PRON	_	_	9	det	_	Gloss=those
 9	manna	manna	NOUN	_	_	10	nsubj	_	Gloss=people
 10	dagammaka	dagammaka	VERB	_	Aspect=Imp	6	acl	_	Gloss=come
@@ -226,7 +226,7 @@
 # text_ged = lamaalokanna ati fadhadik no?o ʃorrine dhakk'anbaaʃʃa reruwwattanna
 # text_en = Also to the rate, you, that they may not be able to chase and catch-up with us saddles and
 1	lamaalokanna	lamaalokanna	NOUN	_	_	5	obl	_	Gloss=rat-also
-2	ati	ati	PRON	_	_	5	nsubj	_	Gloss=2SG
+2	ati	ati	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Gloss=2SG
 3	fadhadik	fadhadik	ADJ	_	_	4	nmod	_	Gloss=horse-EP-with
 4	no?o	no?o	PRON	_	_	5	obj	_	Gloss=with
 5	ʃorrine	ʃorrine	VERB	_	Aspect=Imp	0	root	_	Gloss=chase-EP-3PL-PFV
