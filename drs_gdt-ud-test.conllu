@@ -126,7 +126,7 @@
 # text_en = I am going to military expedition, he replied going on the front.
 1	duuloke	duuloke	NOUN	_	Case=Loc	2	obj	_	Gloss=expedition-COP.F
 2	maraannen	maraannen	VERB	_	Aspect=Imp	5	ccomp	_	Gloss=go-1SG.IPFV-DCL
-3	isi	isi	PRON	_	_	5	nsubj	_	Gloss=he
+3	isi	isi	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=he
 4	edii?n	edii?n	ADJ	_	_	5	ccomp	_	Gloss=front
 5	me?a?neen	me?a?neen	VERB	_	_	0	root	_	Gloss=go-1SG.IPFV-DCL
 
@@ -378,7 +378,7 @@
 # text = isi rok’oonse roqoonse hiyya wodda
 # text_ged = isi rok'oonse roqoonse hiyya wodda
 # text_en = ‘He trembled, trembled say’
-1	isi	isi	PRON	_	_	2	nsubj	_	Gloss=3SG.M.NOM
+1	isi	isi	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG.M.NOM
 2	rok’oonse	rok’oonse	VERB	_	_	0	root	_	Gloss=tremble-2SG.M-PFV
 3	roqoonse	roqoonse	VERB	_	_	2	parataxis	_	Gloss=tremble-2SG.M-PFV
 4	hiyya	hiyya	VERB	_	_	2	acl	_	Gloss=say-2SG.M-IPFV
