@@ -52,8 +52,8 @@
   <!-- Statistics of universal dependency relations. -->
   <deps unique="18">
     <dep name="acl">20</dep>
-    <dep name="advcl">9</dep>
-    <dep name="advmod">34</dep>
+    <dep name="advcl">20</dep>
+    <dep name="advmod">23</dep>
     <dep name="amod">10</dep>
     <dep name="case">3</dep>
     <dep name="ccomp">27</dep>

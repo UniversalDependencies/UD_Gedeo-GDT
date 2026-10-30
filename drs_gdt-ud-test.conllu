@@ -191,7 +191,7 @@
 # text_ged = mene meneett'i gennee duuliinba
 # text_en = After they traveled long a journey, they arrived at the battlefield.
 1	mene	mene	VERB	_	Aspect=Perf	3	parataxis	_	Gloss=go-3PL-PFT
-2	meneett'i	meneett'i	VERB	_	Aspect=Perf	1	advmod	_	Gloss=go-3PL-PFT-?
+2	meneett'i	meneett'i	VERB	_	Aspect=Perf	1	advcl	_	Gloss=go-3PL-PFT-?
 3	gennee	gennee	VERB	_	Aspect=Perf	0	root	_	Gloss=arrive-3PL-PFT
 4	duuliinba	duuliinba	NOUN	_	_	3	obj	_	Gloss=expedition-at
 
@@ -203,8 +203,8 @@
 2	e?yineett'i	e?yineett'i	VERB	_	Aspect=Perf	4	acl	_	Gloss=enter-EP-3PL-?
 3	hore	hore	NOUN	_	_	4	obl	_	Gloss=herd
 4	olfine?e	olfine?e	VERB	_	Aspect=Perf	0	root	_	Gloss=take-away-3PL-PFV
-5	fulchine	fulchine	VERB	_	Aspect=Perf	4	advmod	_	Gloss=they-take-away
-6	ke?nee	ke?nee	VERB	_	Aspect=Perf	4	advmod	_	Gloss=they-take-away
+5	fulchine	fulchine	VERB	_	Aspect=Perf	4	advcl	_	Gloss=they-take-away
+6	ke?nee	ke?nee	VERB	_	Aspect=Perf	4	advcl	_	Gloss=they-take-away
 
 # sent_id = 22
 # text = ati woldonni jabaken dalla?ake?n uurrite iddi ati konne?e manna dagammaka
@@ -262,7 +262,7 @@
 3	uwwendeett'a	uwwendeett'a	VERB	_	Aspect=Perf	4	acl	_	Gloss=give-PFV-FOC.F
 4	birree	birree	VERB	_	Aspect=Perf	0	root	_	Gloss=finish-PFV
 5	dan(g)e?e	dan(g)e?e	ADV	_	_	4	acl	_	Gloss=come-CV
-6	e?yinaa	e?yinaa	VERB	_	Aspect=Imp	5	advmod	_	Gloss=enter-EP-2PL-IPFV
+6	e?yinaa	e?yinaa	VERB	_	Aspect=Imp	5	advcl	_	Gloss=enter-EP-2PL-IPFV
 7	wodda	wodda	ADV	_	_	5	advmod	_	Gloss=moment
 
 # sent_id = 27
@@ -280,7 +280,7 @@
 2	kuni	kuni	PRON	_	_	3	det	_	Gloss=those
 3	manni	manni	NOUN	_	_	6	nsubj	_	Gloss=people
 4	eeganni	eeganni	NOUN	_	_	5	amod	_	Gloss=well
-5	iitta	iitta	VERB	_	_	6	advmod	_	Gloss=killed
+5	iitta	iitta	VERB	_	_	6	advcl	_	Gloss=killed
 6	hujeeki	hujeeki	ADJ	_	_	0	root	_	Gloss=like this
 7	dhudhdhuufi	dhudhdhuufi	NOUN	_	_	6	obj	_	Gloss=snake
 
@@ -289,10 +289,10 @@
 # text_ged = no?o bire bire?een hitta kn(ad)e aan(g)anno hiyya wodda
 # text_en = How would we get back? when the cock said to the eagle.
 1	no?o	no?o	PRON	_	_	2	nsubj	_	Gloss=we
-2	bire	bire	VERB	_	_	3	advmod	_	Gloss=finish-PFV
+2	bire	bire	VERB	_	_	3	advcl	_	Gloss=finish-PFV
 3	bire?een	bire?een	VERB	_	_	7	parataxis	_	Gloss=finish-3SG.M-DCL
 4	hitta	hitta	ADV	_	_	3	advmod	_	Gloss=how
-5	kn(ad)e	kn(ad)e	VERB	_	_	6	advmod	_	Gloss=happen-1PL-PFV
+5	kn(ad)e	kn(ad)e	VERB	_	_	6	advcl	_	Gloss=happen-1PL-PFV
 6	aan(g)anno	aan(g)anno	VERB	_	_	7	ccomp	_	Gloss=enter-1PL.IPFV-INT
 7	hiyya	hiyya	VERB	_	_	0	root	_	Gloss=say
 
@@ -322,7 +322,7 @@
 # text = ninife ʃiyyett'i woccaasseen mene hinaa wodda oranni
 1	ninife	ninife	NOUN	_	_	2	advmod	_	Gloss=wound
 2	ʃiyyett'i	ʃiyyett'i	VERB	_	_	7	acl	_	Gloss=kill-PFV
-3	woccaasseen	woccaasseen	VERB	_	_	2	advmod	_	Gloss=abandon-PFV
+3	woccaasseen	woccaasseen	VERB	_	_	2	advcl	_	Gloss=abandon-PFV
 4	mene	mene	VERB	_	_	7	acl	_	Gloss=go-3PL-PFV
 5	hinaa	hinaa	ADV	_	_	4	acl	_	Gloss=while
 6	wodda	wodda	NOUN	_	_	7	obl	_	Gloss=moment
@@ -450,7 +450,7 @@
 1	kinjo	kinjo	NOUN	_	_	5	ccomp	_	Gloss=stone
 2	okkone?n	okkone?n	ADP	_	_	1	case	_	Gloss=on
 3	iima	iima	ADV	_	_	1	nmod	_	Gloss=that
-4	satt'e?e	satt'e?e	VERB	_	_	5	advmod	_	Gloss=rise-up-3SG.F-CV
+4	satt'e?e	satt'e?e	VERB	_	_	5	advcl	_	Gloss=rise-up-3SG.F-CV
 5	uurriyyati	uurriyyati	VERB	_	_	0	root	_	Gloss=stand-3SG.F-IPV
 
 # sent_id = 45
@@ -468,7 +468,7 @@
 # text_ged = lamaalchikinna hiyyemmanʃanni assa wodda jole isoo mitte ganen adhdhite satt'een ookkoneechchi udumi?aa iitta kade?e
 # text_en = While performing as it was told, in a moment a hawk at once struck and took up the rat.
 1	lamaalchikinna	lamaalchikinna	NOUN	_	_	3	nsubj	_	Gloss=rat
-2	hiyyemmanʃanni	hiyyemmanʃanni	VERB	_	_	3	advmod	_	Gloss=say-PFV-PST
+2	hiyyemmanʃanni	hiyyemmanʃanni	VERB	_	_	3	advcl	_	Gloss=say-PFV-PST
 3	assa	assa	ADP	_	_	8	parataxis	_	Gloss=do-IPFV
 4	wodda	wodda	NOUN	_	_	3	advmod	_	Gloss=moment
 5	jole	jole	NOUN	_	_	8	nsubj	_	Gloss=hawk
@@ -476,7 +476,7 @@
 7	mitte	mitte	NUM	_	NumType=Card	8	advmod	_	Gloss=one
 8	ganen	ganen	VERB	_	_	0	root	_	Gloss=strike-PFV
 9	adhdhite	adhdhite	VERB	_	_	8	parataxis	_	Gloss=take-PFV
-10	satt'een	satt'een	VERB	_	_	8	advmod	_	Gloss=rise-up-PFV
+10	satt'een	satt'een	VERB	_	_	8	advcl	_	Gloss=rise-up-PFV
 11	ookkoneechchi	ookkoneechchi	VERB	_	_	14	ccomp	_	Gloss=do
 12	udumi?aa	udumi?aa	NOUN	_	_	14	advmod	_	Gloss=rat
 13	iitta	iitta	ADP	_	_	14	obj	_	Gloss=inside
