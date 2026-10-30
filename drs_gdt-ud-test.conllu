@@ -77,7 +77,7 @@
 5	duulanno-n	duulanno-n	NOUN	_	Case=Gen	6	ccomp	_	Gloss=ingenuity-EP-with
 6	hiyye?e	hiyye?e	VERB	_	Aspect=Perf	7	advcl	_	Gloss=say-PFV.CV
 7	hiissa	hiissa	VERB	_	Aspect=Perf	3	advcl	_	Gloss=reply-PFV
-8	woddi	woddi	SCONJ	_	_	7	advmod	_	Gloss=moment
+8	woddi	woddi	ADV	_	_	7	advmod	_	Gloss=moment
 
 # sent_id = 8
 # text = ati kuni heenochchi malik duulideteka ani fa?i waalabe?no?n hiyye
@@ -310,7 +310,7 @@
 # text_en = Then the eagle, having been hit once, brought the snake down to the ground.
 1	sinbirri	sinbirri	NOUN	_	_	2	nsubj	_	Gloss=eagle
 2	dhudhdhufa	dhudhdhufa	VERB	_	_	7	parataxis	_	Gloss=hit-3SG.M-PFV
-3	mitte	mitte	NUM	_	NumType=Card	2	advmod	_	Gloss=one
+3	mitte	mitte	NUM	_	NumType=Card	2	obl	_	Gloss=one
 4	ganen	ganen	VERB	_	_	7	parataxis	_	Gloss=hit-3SG.M-PFV-PFV
 5	iima	iima	ADV	_	_	4	advmod	_	Gloss=over
 6	butti?aa	butti?aa	NOUN	_	_	4	ccomp	_	Gloss=ground-to
@@ -320,7 +320,7 @@
 # text_ged = ninife ʃiyyett'i woccaasseen mene mene hinaa wodda oranni
 # text_en = who abandoned and killed mauled after they traveled a while
 # text = ninife ʃiyyett'i woccaasseen mene hinaa wodda oranni
-1	ninife	ninife	NOUN	_	_	2	advmod	_	Gloss=wound
+1	ninife	ninife	NOUN	_	_	2	obl	_	Gloss=wound
 2	ʃiyyett'i	ʃiyyett'i	VERB	_	_	7	acl	_	Gloss=kill-PFV
 3	woccaasseen	woccaasseen	VERB	_	_	2	advcl	_	Gloss=abandon-PFV
 4	mene	mene	VERB	_	_	7	acl	_	Gloss=go-3PL-PFV
@@ -382,7 +382,7 @@
 2	rok’oonse	rok’oonse	VERB	_	_	0	root	_	Gloss=tremble-2SG.M-PFV
 3	roqoonse	roqoonse	VERB	_	_	2	parataxis	_	Gloss=tremble-2SG.M-PFV
 4	hiyya	hiyya	VERB	_	_	2	acl	_	Gloss=say-2SG.M-IPFV
-5	wodda	wodda	NOUN	_	_	4	advmod	_	Gloss=moment
+5	wodda	wodda	ADV	_	_	4	advmod	_	Gloss=moment
 
 # sent_id = 38
 # text = amotaata keeli anik giddo hiyyeen keeli giddo e?ye
@@ -394,7 +394,7 @@
 4	giddo	giddo	ADP	_	_	2	case	_	Gloss=inside
 5	hiyyeen	hiyyeen	VERB	_	_	0	root	_	Gloss=say-3SG.M-PFV-DCL
 6	keeli	keeli	NOUN	_	_	8	ccomp	_	Gloss=wing-GEN
-7	giddo	giddo	ADP	_	_	6	advmod	_	Gloss=inside
+7	giddo	giddo	ADP	_	_	6	case	_	Gloss=inside
 8	e?ye	e?ye	VERB	_	_	5	parataxis	_	Gloss=enter
 
 # sent_id = 39
@@ -415,7 +415,7 @@
 # text_en = ‘The roaster said let us slaughter one of the cattle to mark our return’
 1	aan(g)e	aan(g)e	VERB	_	_	7	nsubj	_	Gloss=return
 2	dan(g)aa	dan(g)aa	ADJ	_	_	5	advcl	_	Gloss=come
-3	wodda	wodda	NOUN	_	_	2	advmod	_	Gloss=moment
+3	wodda	wodda	ADV	_	_	2	advmod	_	Gloss=moment
 4	aan(g)-eennett'a	aan(g)-eennett'a	VERB	_	_	5	ccomp	_	Gloss=return-that
 5	egennannoʃʃa	egennannoʃʃa	VERB	_	_	7	acl	_	Gloss=know-1PL.PFV
 6	du?lino	du?lino	ADJ	_	_	7	obj	_	Gloss=slaughter-for
@@ -470,16 +470,16 @@
 1	lamaalchikinna	lamaalchikinna	NOUN	_	_	3	nsubj	_	Gloss=rat
 2	hiyyemmanʃanni	hiyyemmanʃanni	VERB	_	_	3	advcl	_	Gloss=say-PFV-PST
 3	assa	assa	ADP	_	_	8	parataxis	_	Gloss=do-IPFV
-4	wodda	wodda	NOUN	_	_	3	advmod	_	Gloss=moment
+4	wodda	wodda	ADV	_	_	3	advmod	_	Gloss=moment
 5	jole	jole	NOUN	_	_	8	nsubj	_	Gloss=hawk
 6	isoo	isoo	PRON	_	_	8	obj	_	Gloss=3SG.ABS
-7	mitte	mitte	NUM	_	NumType=Card	8	advmod	_	Gloss=one
+7	mitte	mitte	NUM	_	NumType=Card	8	obl	_	Gloss=one
 8	ganen	ganen	VERB	_	_	0	root	_	Gloss=strike-PFV
 9	adhdhite	adhdhite	VERB	_	_	8	parataxis	_	Gloss=take-PFV
 10	satt'een	satt'een	VERB	_	_	8	advcl	_	Gloss=rise-up-PFV
 11	ookkoneechchi	ookkoneechchi	VERB	_	_	14	ccomp	_	Gloss=do
-12	udumi?aa	udumi?aa	NOUN	_	_	14	advmod	_	Gloss=rat
-13	iitta	iitta	ADP	_	_	14	obj	_	Gloss=inside
+12	udumi?aa	udumi?aa	NOUN	_	_	14	obj	_	Gloss=rat
+13	iitta	iitta	ADP	_	_	14	obl	_	Gloss=inside
 14	kade?e	kade?e	VERB	_	_	8	ccomp	_	Gloss=happen-CV
 
 # sent_id = 47
